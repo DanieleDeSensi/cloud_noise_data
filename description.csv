@@ -8,9 +8,10 @@ AWS,Normal,Same Rack,Night,aws-normal_c5.18xlarge_cluster/2022_03_26_10_07_26
 Azure,HPC (Metal),Same Rack,Night,azure_hpc44rs_azure_quite_same_rack/2022_03_18_10_05_53
 Azure,HPC (Metal),Same Rack,Day,azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11
 Azure,HPC (Metal),Same Rack,Long,azure_hpc44rs_azure_long_same_rack/2022_03_21_12_47_18
+Azure,HPC+,Same Rack,Day,azure_hbv2_rush_hour/2022_03_25_17_01_24
 Daint,HPC (Metal),Different Racks,Day,daint_mc_diffcabinets/2022_03_18_17_33_02
 Daint,HPC (Metal),Different Racks,Night,daint_mc_quiet_hour_diff_rack_default/2022_03_25_04_59_45
-Daint,HPC (Metal),Same Rack,Day,daint_mc_rush_hours_same_rack_default/2022_03_21_17_06_35
+Daint,HPC (Metal),Same Rack,Day,daint_mc_rush_hours_same_rack_default/2022_03_25_17_00_10
 Daint,HPC (Metal),Same Rack,Night,daint_mc_quiet_hours_same_rack_default/2022_03_24_04_59_53
 Daint,HPC (Metal),Same Rack,Long,daint_mc_long_same_rack_default/2022_03_22_17_28_57
 GCP,HPC,Different Racks,Night,gcp_c2-standard-30_spread/2022_03_25_10_24_03
