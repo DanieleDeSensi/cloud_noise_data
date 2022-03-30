@@ -16,13 +16,14 @@ do
         for dt in $(ls .)
         do
             if [ "$DECOMPRESS" = true ] ; then
-                if [[ ${dt} == *.tar.gz ]]; then
+                if [[ ${dt} == *.tar.xz ]]; then
                     tar -xvf ${dt}
                 fi
             else
                 # Compress only folders
                 if [ -d "$dt" ]; then         
-                    tar -zcvf ${dt}.tar.gz ${dt}
+                    #tar -zcvf ${dt}.tar.gz ${dt}
+                    tar vcfJ ${dt}.tar.xz ${dt}
                 fi
             fi
         done
