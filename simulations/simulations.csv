@@ -1,0 +1,925 @@
+,Noise,Type,Collective,Provider,Instance Type,Nodes,Scenario,Time (us),Message Size
+0,none,Simulated,binomialtreebcast,AWS,HPC (Metal),4,../../cloud_noise_data/aws_c5n.metal_cluster/2022_03_23_22_04_48,3758.3873,16777216
+1,os,Simulated,binomialtreebcast,AWS,HPC (Metal),4,../../cloud_noise_data/aws_c5n.metal_cluster/2022_03_23_22_04_48,3758.3873,16777216
+2,net,Simulated,binomialtreebcast,AWS,HPC (Metal),4,../../cloud_noise_data/aws_c5n.metal_cluster/2022_03_23_22_04_48,3590.016235,16777216
+3,os+net,Simulated,binomialtreebcast,AWS,HPC (Metal),4,../../cloud_noise_data/aws_c5n.metal_cluster/2022_03_23_22_04_48,4048.70766,16777216
+4,os,Simulated,binomialtreebcast,AWS,HPC (Metal),4,../../cloud_noise_data/aws_c5n.metal_cluster/2022_03_23_22_04_48,3758.3873,16777216
+5,net,Simulated,binomialtreebcast,AWS,HPC (Metal),4,../../cloud_noise_data/aws_c5n.metal_cluster/2022_03_23_22_04_48,3715.229511,16777216
+6,os+net,Simulated,binomialtreebcast,AWS,HPC (Metal),4,../../cloud_noise_data/aws_c5n.metal_cluster/2022_03_23_22_04_48,3746.96506,16777216
+7,none,Simulated,nwaydissemination,AWS,HPC (Metal),4,../../cloud_noise_data/aws_c5n.metal_cluster/2022_03_23_22_04_48,20535.6033,16777216
+8,os,Simulated,nwaydissemination,AWS,HPC (Metal),4,../../cloud_noise_data/aws_c5n.metal_cluster/2022_03_23_22_04_48,20614.99008,16777216
+9,net,Simulated,nwaydissemination,AWS,HPC (Metal),4,../../cloud_noise_data/aws_c5n.metal_cluster/2022_03_23_22_04_48,20619.815829,16777216
+10,os+net,Simulated,nwaydissemination,AWS,HPC (Metal),4,../../cloud_noise_data/aws_c5n.metal_cluster/2022_03_23_22_04_48,20572.519882,16777216
+11,os,Simulated,nwaydissemination,AWS,HPC (Metal),4,../../cloud_noise_data/aws_c5n.metal_cluster/2022_03_23_22_04_48,20548.03786,16777216
+12,net,Simulated,nwaydissemination,AWS,HPC (Metal),4,../../cloud_noise_data/aws_c5n.metal_cluster/2022_03_23_22_04_48,20518.410727,16777216
+13,os+net,Simulated,nwaydissemination,AWS,HPC (Metal),4,../../cloud_noise_data/aws_c5n.metal_cluster/2022_03_23_22_04_48,20821.258653,16777216
+14,none,Simulated,pipelinedring,AWS,HPC (Metal),4,../../cloud_noise_data/aws_c5n.metal_cluster/2022_03_23_22_04_48,1980.29332,16777216
+15,os,Simulated,pipelinedring,AWS,HPC (Metal),4,../../cloud_noise_data/aws_c5n.metal_cluster/2022_03_23_22_04_48,1980.29332,16777216
+16,net,Simulated,pipelinedring,AWS,HPC (Metal),4,../../cloud_noise_data/aws_c5n.metal_cluster/2022_03_23_22_04_48,2103.387047,16777216
+17,os+net,Simulated,pipelinedring,AWS,HPC (Metal),4,../../cloud_noise_data/aws_c5n.metal_cluster/2022_03_23_22_04_48,1994.319865,16777216
+18,os,Simulated,pipelinedring,AWS,HPC (Metal),4,../../cloud_noise_data/aws_c5n.metal_cluster/2022_03_23_22_04_48,1980.29332,16777216
+19,net,Simulated,pipelinedring,AWS,HPC (Metal),4,../../cloud_noise_data/aws_c5n.metal_cluster/2022_03_23_22_04_48,1976.62588,16777216
+20,os+net,Simulated,pipelinedring,AWS,HPC (Metal),4,../../cloud_noise_data/aws_c5n.metal_cluster/2022_03_23_22_04_48,2435.636151,16777216
+21,none,Simulated,linear_alltoall,AWS,HPC (Metal),4,../../cloud_noise_data/aws_c5n.metal_cluster/2022_03_23_22_04_48,5637.58095,16777216
+22,os,Simulated,linear_alltoall,AWS,HPC (Metal),4,../../cloud_noise_data/aws_c5n.metal_cluster/2022_03_23_22_04_48,5637.58095,16777216
+23,net,Simulated,linear_alltoall,AWS,HPC (Metal),4,../../cloud_noise_data/aws_c5n.metal_cluster/2022_03_23_22_04_48,7722.588226,16777216
+24,os+net,Simulated,linear_alltoall,AWS,HPC (Metal),4,../../cloud_noise_data/aws_c5n.metal_cluster/2022_03_23_22_04_48,7460.459125,16777216
+25,os,Simulated,linear_alltoall,AWS,HPC (Metal),4,../../cloud_noise_data/aws_c5n.metal_cluster/2022_03_23_22_04_48,5637.58095,16777216
+26,net,Simulated,linear_alltoall,AWS,HPC (Metal),4,../../cloud_noise_data/aws_c5n.metal_cluster/2022_03_23_22_04_48,7598.461627,16777216
+27,os+net,Simulated,linear_alltoall,AWS,HPC (Metal),4,../../cloud_noise_data/aws_c5n.metal_cluster/2022_03_23_22_04_48,7544.946943,16777216
+28,none,Simulated,binomialtreebcast,AWS,HPC (Metal),8,../../cloud_noise_data/aws_c5n.metal_cluster/2022_03_23_22_04_48,5637.58095,16777216
+29,os,Simulated,binomialtreebcast,AWS,HPC (Metal),8,../../cloud_noise_data/aws_c5n.metal_cluster/2022_03_23_22_04_48,5637.58095,16777216
+30,net,Simulated,binomialtreebcast,AWS,HPC (Metal),8,../../cloud_noise_data/aws_c5n.metal_cluster/2022_03_23_22_04_48,5876.965038,16777216
+31,os+net,Simulated,binomialtreebcast,AWS,HPC (Metal),8,../../cloud_noise_data/aws_c5n.metal_cluster/2022_03_23_22_04_48,5592.875467,16777216
+32,os,Simulated,binomialtreebcast,AWS,HPC (Metal),8,../../cloud_noise_data/aws_c5n.metal_cluster/2022_03_23_22_04_48,5637.58095,16777216
+33,net,Simulated,binomialtreebcast,AWS,HPC (Metal),8,../../cloud_noise_data/aws_c5n.metal_cluster/2022_03_23_22_04_48,5905.293231,16777216
+34,os+net,Simulated,binomialtreebcast,AWS,HPC (Metal),8,../../cloud_noise_data/aws_c5n.metal_cluster/2022_03_23_22_04_48,5625.957605,16777216
+35,none,Simulated,nwaydissemination,AWS,HPC (Metal),8,../../cloud_noise_data/aws_c5n.metal_cluster/2022_03_23_22_04_48,39192.01295,16777216
+36,os,Simulated,nwaydissemination,AWS,HPC (Metal),8,../../cloud_noise_data/aws_c5n.metal_cluster/2022_03_23_22_04_48,39275.50525,16777216
+37,net,Simulated,nwaydissemination,AWS,HPC (Metal),8,../../cloud_noise_data/aws_c5n.metal_cluster/2022_03_23_22_04_48,39277.07818,16777216
+38,os+net,Simulated,nwaydissemination,AWS,HPC (Metal),8,../../cloud_noise_data/aws_c5n.metal_cluster/2022_03_23_22_04_48,39409.183439,16777216
+39,os,Simulated,nwaydissemination,AWS,HPC (Metal),8,../../cloud_noise_data/aws_c5n.metal_cluster/2022_03_23_22_04_48,39281.47755,16777216
+40,net,Simulated,nwaydissemination,AWS,HPC (Metal),8,../../cloud_noise_data/aws_c5n.metal_cluster/2022_03_23_22_04_48,39449.700356,16777216
+41,os+net,Simulated,nwaydissemination,AWS,HPC (Metal),8,../../cloud_noise_data/aws_c5n.metal_cluster/2022_03_23_22_04_48,39229.462755,16777216
+42,none,Simulated,pipelinedring,AWS,HPC (Metal),8,../../cloud_noise_data/aws_c5n.metal_cluster/2022_03_23_22_04_48,2115.09288,16777216
+43,os,Simulated,pipelinedring,AWS,HPC (Metal),8,../../cloud_noise_data/aws_c5n.metal_cluster/2022_03_23_22_04_48,2115.09288,16777216
+44,net,Simulated,pipelinedring,AWS,HPC (Metal),8,../../cloud_noise_data/aws_c5n.metal_cluster/2022_03_23_22_04_48,2113.628305,16777216
+45,os+net,Simulated,pipelinedring,AWS,HPC (Metal),8,../../cloud_noise_data/aws_c5n.metal_cluster/2022_03_23_22_04_48,2645.624744,16777216
+46,os,Simulated,pipelinedring,AWS,HPC (Metal),8,../../cloud_noise_data/aws_c5n.metal_cluster/2022_03_23_22_04_48,2115.09288,16777216
+47,net,Simulated,pipelinedring,AWS,HPC (Metal),8,../../cloud_noise_data/aws_c5n.metal_cluster/2022_03_23_22_04_48,2364.56551,16777216
+48,os+net,Simulated,pipelinedring,AWS,HPC (Metal),8,../../cloud_noise_data/aws_c5n.metal_cluster/2022_03_23_22_04_48,2149.374493,16777216
+49,none,Simulated,linear_alltoall,AWS,HPC (Metal),8,../../cloud_noise_data/aws_c5n.metal_cluster/2022_03_23_22_04_48,13154.35555,16777216
+50,os,Simulated,linear_alltoall,AWS,HPC (Metal),8,../../cloud_noise_data/aws_c5n.metal_cluster/2022_03_23_22_04_48,13154.35555,16777216
+51,net,Simulated,linear_alltoall,AWS,HPC (Metal),8,../../cloud_noise_data/aws_c5n.metal_cluster/2022_03_23_22_04_48,18786.492788,16777216
+52,os+net,Simulated,linear_alltoall,AWS,HPC (Metal),8,../../cloud_noise_data/aws_c5n.metal_cluster/2022_03_23_22_04_48,17027.475146,16777216
+53,os,Simulated,linear_alltoall,AWS,HPC (Metal),8,../../cloud_noise_data/aws_c5n.metal_cluster/2022_03_23_22_04_48,13154.35555,16777216
+54,net,Simulated,linear_alltoall,AWS,HPC (Metal),8,../../cloud_noise_data/aws_c5n.metal_cluster/2022_03_23_22_04_48,20243.608167,16777216
+55,os+net,Simulated,linear_alltoall,AWS,HPC (Metal),8,../../cloud_noise_data/aws_c5n.metal_cluster/2022_03_23_22_04_48,17021.629776,16777216
+56,none,Simulated,binomialtreebcast,AWS,HPC (Metal),16,../../cloud_noise_data/aws_c5n.metal_cluster/2022_03_23_22_04_48,7516.7746,16777216
+57,os,Simulated,binomialtreebcast,AWS,HPC (Metal),16,../../cloud_noise_data/aws_c5n.metal_cluster/2022_03_23_22_04_48,7516.7746,16777216
+58,net,Simulated,binomialtreebcast,AWS,HPC (Metal),16,../../cloud_noise_data/aws_c5n.metal_cluster/2022_03_23_22_04_48,7660.678297,16777216
+59,os+net,Simulated,binomialtreebcast,AWS,HPC (Metal),16,../../cloud_noise_data/aws_c5n.metal_cluster/2022_03_23_22_04_48,7693.043401,16777216
+60,os,Simulated,binomialtreebcast,AWS,HPC (Metal),16,../../cloud_noise_data/aws_c5n.metal_cluster/2022_03_23_22_04_48,7516.7746,16777216
+61,net,Simulated,binomialtreebcast,AWS,HPC (Metal),16,../../cloud_noise_data/aws_c5n.metal_cluster/2022_03_23_22_04_48,7938.757849,16777216
+62,os+net,Simulated,binomialtreebcast,AWS,HPC (Metal),16,../../cloud_noise_data/aws_c5n.metal_cluster/2022_03_23_22_04_48,7611.851009,16777216
+63,none,Simulated,nwaydissemination,AWS,HPC (Metal),16,../../cloud_noise_data/aws_c5n.metal_cluster/2022_03_23_22_04_48,57848.4226,16777216
+64,os,Simulated,nwaydissemination,AWS,HPC (Metal),16,../../cloud_noise_data/aws_c5n.metal_cluster/2022_03_23_22_04_48,58172.7589,16777216
+65,net,Simulated,nwaydissemination,AWS,HPC (Metal),16,../../cloud_noise_data/aws_c5n.metal_cluster/2022_03_23_22_04_48,58151.068918,16777216
+66,os+net,Simulated,nwaydissemination,AWS,HPC (Metal),16,../../cloud_noise_data/aws_c5n.metal_cluster/2022_03_23_22_04_48,58835.220049,16777216
+67,os,Simulated,nwaydissemination,AWS,HPC (Metal),16,../../cloud_noise_data/aws_c5n.metal_cluster/2022_03_23_22_04_48,58021.38749,16777216
+68,net,Simulated,nwaydissemination,AWS,HPC (Metal),16,../../cloud_noise_data/aws_c5n.metal_cluster/2022_03_23_22_04_48,58215.733894,16777216
+69,os+net,Simulated,nwaydissemination,AWS,HPC (Metal),16,../../cloud_noise_data/aws_c5n.metal_cluster/2022_03_23_22_04_48,58314.1623,16777216
+70,none,Simulated,pipelinedring,AWS,HPC (Metal),16,../../cloud_noise_data/aws_c5n.metal_cluster/2022_03_23_22_04_48,2384.692,16777216
+71,os,Simulated,pipelinedring,AWS,HPC (Metal),16,../../cloud_noise_data/aws_c5n.metal_cluster/2022_03_23_22_04_48,2386.29881,16777216
+72,net,Simulated,pipelinedring,AWS,HPC (Metal),16,../../cloud_noise_data/aws_c5n.metal_cluster/2022_03_23_22_04_48,2423.703897,16777216
+73,os+net,Simulated,pipelinedring,AWS,HPC (Metal),16,../../cloud_noise_data/aws_c5n.metal_cluster/2022_03_23_22_04_48,2582.976423,16777216
+74,os,Simulated,pipelinedring,AWS,HPC (Metal),16,../../cloud_noise_data/aws_c5n.metal_cluster/2022_03_23_22_04_48,2386.50479,16777216
+75,net,Simulated,pipelinedring,AWS,HPC (Metal),16,../../cloud_noise_data/aws_c5n.metal_cluster/2022_03_23_22_04_48,2425.94609,16777216
+76,os+net,Simulated,pipelinedring,AWS,HPC (Metal),16,../../cloud_noise_data/aws_c5n.metal_cluster/2022_03_23_22_04_48,2430.303122,16777216
+77,none,Simulated,linear_alltoall,AWS,HPC (Metal),16,../../cloud_noise_data/aws_c5n.metal_cluster/2022_03_23_22_04_48,28187.90475,16777216
+78,os,Simulated,linear_alltoall,AWS,HPC (Metal),16,../../cloud_noise_data/aws_c5n.metal_cluster/2022_03_23_22_04_48,28187.90475,16777216
+79,net,Simulated,linear_alltoall,AWS,HPC (Metal),16,../../cloud_noise_data/aws_c5n.metal_cluster/2022_03_23_22_04_48,38141.708454,16777216
+80,os+net,Simulated,linear_alltoall,AWS,HPC (Metal),16,../../cloud_noise_data/aws_c5n.metal_cluster/2022_03_23_22_04_48,39233.037507,16777216
+81,os,Simulated,linear_alltoall,AWS,HPC (Metal),16,../../cloud_noise_data/aws_c5n.metal_cluster/2022_03_23_22_04_48,28197.331347,16777216
+82,net,Simulated,linear_alltoall,AWS,HPC (Metal),16,../../cloud_noise_data/aws_c5n.metal_cluster/2022_03_23_22_04_48,39156.815861,16777216
+83,os+net,Simulated,linear_alltoall,AWS,HPC (Metal),16,../../cloud_noise_data/aws_c5n.metal_cluster/2022_03_23_22_04_48,38934.954284,16777216
+84,none,Simulated,binomialtreebcast,AWS,Normal,4,../../cloud_noise_data/aws-normal_c5.18xlarge_cluster/2022_03_26_10_07_26,3758.3873,16777216
+85,os,Simulated,binomialtreebcast,AWS,Normal,4,../../cloud_noise_data/aws-normal_c5.18xlarge_cluster/2022_03_26_10_07_26,3758.3873,16777216
+86,net,Simulated,binomialtreebcast,AWS,Normal,4,../../cloud_noise_data/aws-normal_c5.18xlarge_cluster/2022_03_26_10_07_26,3841.914655,16777216
+87,os+net,Simulated,binomialtreebcast,AWS,Normal,4,../../cloud_noise_data/aws-normal_c5.18xlarge_cluster/2022_03_26_10_07_26,3710.703779,16777216
+88,os,Simulated,binomialtreebcast,AWS,Normal,4,../../cloud_noise_data/aws-normal_c5.18xlarge_cluster/2022_03_26_10_07_26,3758.3873,16777216
+89,net,Simulated,binomialtreebcast,AWS,Normal,4,../../cloud_noise_data/aws-normal_c5.18xlarge_cluster/2022_03_26_10_07_26,3710.703779,16777216
+90,os+net,Simulated,binomialtreebcast,AWS,Normal,4,../../cloud_noise_data/aws-normal_c5.18xlarge_cluster/2022_03_26_10_07_26,3893.016986,16777216
+91,none,Simulated,nwaydissemination,AWS,Normal,4,../../cloud_noise_data/aws-normal_c5.18xlarge_cluster/2022_03_26_10_07_26,20535.6033,16777216
+92,os,Simulated,nwaydissemination,AWS,Normal,4,../../cloud_noise_data/aws-normal_c5.18xlarge_cluster/2022_03_26_10_07_26,20626.29979,16777216
+93,net,Simulated,nwaydissemination,AWS,Normal,4,../../cloud_noise_data/aws-normal_c5.18xlarge_cluster/2022_03_26_10_07_26,20675.24014,16777216
+94,os+net,Simulated,nwaydissemination,AWS,Normal,4,../../cloud_noise_data/aws-normal_c5.18xlarge_cluster/2022_03_26_10_07_26,21179.458947,16777216
+95,os,Simulated,nwaydissemination,AWS,Normal,4,../../cloud_noise_data/aws-normal_c5.18xlarge_cluster/2022_03_26_10_07_26,20631.53531,16777216
+96,net,Simulated,nwaydissemination,AWS,Normal,4,../../cloud_noise_data/aws-normal_c5.18xlarge_cluster/2022_03_26_10_07_26,20727.130188,16777216
+97,os+net,Simulated,nwaydissemination,AWS,Normal,4,../../cloud_noise_data/aws-normal_c5.18xlarge_cluster/2022_03_26_10_07_26,20861.267608,16777216
+98,none,Simulated,pipelinedring,AWS,Normal,4,../../cloud_noise_data/aws-normal_c5.18xlarge_cluster/2022_03_26_10_07_26,1980.29332,16777216
+99,os,Simulated,pipelinedring,AWS,Normal,4,../../cloud_noise_data/aws-normal_c5.18xlarge_cluster/2022_03_26_10_07_26,1980.29332,16777216
+100,net,Simulated,pipelinedring,AWS,Normal,4,../../cloud_noise_data/aws-normal_c5.18xlarge_cluster/2022_03_26_10_07_26,2465.438805,16777216
+101,os+net,Simulated,pipelinedring,AWS,Normal,4,../../cloud_noise_data/aws-normal_c5.18xlarge_cluster/2022_03_26_10_07_26,2487.123106,16777216
+102,os,Simulated,pipelinedring,AWS,Normal,4,../../cloud_noise_data/aws-normal_c5.18xlarge_cluster/2022_03_26_10_07_26,1980.29332,16777216
+103,net,Simulated,pipelinedring,AWS,Normal,4,../../cloud_noise_data/aws-normal_c5.18xlarge_cluster/2022_03_26_10_07_26,2634.439133,16777216
+104,os+net,Simulated,pipelinedring,AWS,Normal,4,../../cloud_noise_data/aws-normal_c5.18xlarge_cluster/2022_03_26_10_07_26,2571.301904,16777216
+105,none,Simulated,linear_alltoall,AWS,Normal,4,../../cloud_noise_data/aws-normal_c5.18xlarge_cluster/2022_03_26_10_07_26,5637.58095,16777216
+106,os,Simulated,linear_alltoall,AWS,Normal,4,../../cloud_noise_data/aws-normal_c5.18xlarge_cluster/2022_03_26_10_07_26,5637.58095,16777216
+107,net,Simulated,linear_alltoall,AWS,Normal,4,../../cloud_noise_data/aws-normal_c5.18xlarge_cluster/2022_03_26_10_07_26,7747.106523,16777216
+108,os+net,Simulated,linear_alltoall,AWS,Normal,4,../../cloud_noise_data/aws-normal_c5.18xlarge_cluster/2022_03_26_10_07_26,5867.025713,16777216
+109,os,Simulated,linear_alltoall,AWS,Normal,4,../../cloud_noise_data/aws-normal_c5.18xlarge_cluster/2022_03_26_10_07_26,5637.58095,16777216
+110,net,Simulated,linear_alltoall,AWS,Normal,4,../../cloud_noise_data/aws-normal_c5.18xlarge_cluster/2022_03_26_10_07_26,9307.69293,16777216
+111,os+net,Simulated,linear_alltoall,AWS,Normal,4,../../cloud_noise_data/aws-normal_c5.18xlarge_cluster/2022_03_26_10_07_26,7668.097188,16777216
+112,none,Simulated,binomialtreebcast,AWS,Normal,8,../../cloud_noise_data/aws-normal_c5.18xlarge_cluster/2022_03_26_10_07_26,5637.58095,16777216
+113,os,Simulated,binomialtreebcast,AWS,Normal,8,../../cloud_noise_data/aws-normal_c5.18xlarge_cluster/2022_03_26_10_07_26,5637.58095,16777216
+114,net,Simulated,binomialtreebcast,AWS,Normal,8,../../cloud_noise_data/aws-normal_c5.18xlarge_cluster/2022_03_26_10_07_26,6351.258337,16777216
+115,os+net,Simulated,binomialtreebcast,AWS,Normal,8,../../cloud_noise_data/aws-normal_c5.18xlarge_cluster/2022_03_26_10_07_26,6351.258337,16777216
+116,os,Simulated,binomialtreebcast,AWS,Normal,8,../../cloud_noise_data/aws-normal_c5.18xlarge_cluster/2022_03_26_10_07_26,5637.58095,16777216
+117,net,Simulated,binomialtreebcast,AWS,Normal,8,../../cloud_noise_data/aws-normal_c5.18xlarge_cluster/2022_03_26_10_07_26,5731.39166,16777216
+118,os+net,Simulated,binomialtreebcast,AWS,Normal,8,../../cloud_noise_data/aws-normal_c5.18xlarge_cluster/2022_03_26_10_07_26,5466.756613,16777216
+119,none,Simulated,nwaydissemination,AWS,Normal,8,../../cloud_noise_data/aws-normal_c5.18xlarge_cluster/2022_03_26_10_07_26,39192.01295,16777216
+120,os,Simulated,nwaydissemination,AWS,Normal,8,../../cloud_noise_data/aws-normal_c5.18xlarge_cluster/2022_03_26_10_07_26,39510.60009,16777216
+121,net,Simulated,nwaydissemination,AWS,Normal,8,../../cloud_noise_data/aws-normal_c5.18xlarge_cluster/2022_03_26_10_07_26,39588.320771,16777216
+122,os+net,Simulated,nwaydissemination,AWS,Normal,8,../../cloud_noise_data/aws-normal_c5.18xlarge_cluster/2022_03_26_10_07_26,39769.657542,16777216
+123,os,Simulated,nwaydissemination,AWS,Normal,8,../../cloud_noise_data/aws-normal_c5.18xlarge_cluster/2022_03_26_10_07_26,39397.74066,16777216
+124,net,Simulated,nwaydissemination,AWS,Normal,8,../../cloud_noise_data/aws-normal_c5.18xlarge_cluster/2022_03_26_10_07_26,39590.995575,16777216
+125,os+net,Simulated,nwaydissemination,AWS,Normal,8,../../cloud_noise_data/aws-normal_c5.18xlarge_cluster/2022_03_26_10_07_26,39639.940842,16777216
+126,none,Simulated,pipelinedring,AWS,Normal,8,../../cloud_noise_data/aws-normal_c5.18xlarge_cluster/2022_03_26_10_07_26,2115.09288,16777216
+127,os,Simulated,pipelinedring,AWS,Normal,8,../../cloud_noise_data/aws-normal_c5.18xlarge_cluster/2022_03_26_10_07_26,2115.09288,16777216
+128,net,Simulated,pipelinedring,AWS,Normal,8,../../cloud_noise_data/aws-normal_c5.18xlarge_cluster/2022_03_26_10_07_26,2521.121481,16777216
+129,os+net,Simulated,pipelinedring,AWS,Normal,8,../../cloud_noise_data/aws-normal_c5.18xlarge_cluster/2022_03_26_10_07_26,2635.400569,16777216
+130,os,Simulated,pipelinedring,AWS,Normal,8,../../cloud_noise_data/aws-normal_c5.18xlarge_cluster/2022_03_26_10_07_26,2115.09288,16777216
+131,net,Simulated,pipelinedring,AWS,Normal,8,../../cloud_noise_data/aws-normal_c5.18xlarge_cluster/2022_03_26_10_07_26,2705.381357,16777216
+132,os+net,Simulated,pipelinedring,AWS,Normal,8,../../cloud_noise_data/aws-normal_c5.18xlarge_cluster/2022_03_26_10_07_26,2705.381357,16777216
+133,none,Simulated,linear_alltoall,AWS,Normal,8,../../cloud_noise_data/aws-normal_c5.18xlarge_cluster/2022_03_26_10_07_26,13154.35555,16777216
+134,os,Simulated,linear_alltoall,AWS,Normal,8,../../cloud_noise_data/aws-normal_c5.18xlarge_cluster/2022_03_26_10_07_26,13154.35555,16777216
+135,net,Simulated,linear_alltoall,AWS,Normal,8,../../cloud_noise_data/aws-normal_c5.18xlarge_cluster/2022_03_26_10_07_26,18919.517727,16777216
+136,os+net,Simulated,linear_alltoall,AWS,Normal,8,../../cloud_noise_data/aws-normal_c5.18xlarge_cluster/2022_03_26_10_07_26,18201.804348,16777216
+137,os,Simulated,linear_alltoall,AWS,Normal,8,../../cloud_noise_data/aws-normal_c5.18xlarge_cluster/2022_03_26_10_07_26,13154.614709,16777216
+138,net,Simulated,linear_alltoall,AWS,Normal,8,../../cloud_noise_data/aws-normal_c5.18xlarge_cluster/2022_03_26_10_07_26,18046.472308,16777216
+139,os+net,Simulated,linear_alltoall,AWS,Normal,8,../../cloud_noise_data/aws-normal_c5.18xlarge_cluster/2022_03_26_10_07_26,18599.16165,16777216
+140,none,Simulated,binomialtreebcast,AWS,Normal,16,../../cloud_noise_data/aws-normal_c5.18xlarge_cluster/2022_03_26_10_07_26,7516.7746,16777216
+141,os,Simulated,binomialtreebcast,AWS,Normal,16,../../cloud_noise_data/aws-normal_c5.18xlarge_cluster/2022_03_26_10_07_26,7516.7746,16777216
+142,net,Simulated,binomialtreebcast,AWS,Normal,16,../../cloud_noise_data/aws-normal_c5.18xlarge_cluster/2022_03_26_10_07_26,7557.877108,16777216
+143,os+net,Simulated,binomialtreebcast,AWS,Normal,16,../../cloud_noise_data/aws-normal_c5.18xlarge_cluster/2022_03_26_10_07_26,7806.409678,16777216
+144,os,Simulated,binomialtreebcast,AWS,Normal,16,../../cloud_noise_data/aws-normal_c5.18xlarge_cluster/2022_03_26_10_07_26,7516.7746,16777216
+145,net,Simulated,binomialtreebcast,AWS,Normal,16,../../cloud_noise_data/aws-normal_c5.18xlarge_cluster/2022_03_26_10_07_26,7777.200943,16777216
+146,os+net,Simulated,binomialtreebcast,AWS,Normal,16,../../cloud_noise_data/aws-normal_c5.18xlarge_cluster/2022_03_26_10_07_26,7776.157772,16777216
+147,none,Simulated,nwaydissemination,AWS,Normal,16,../../cloud_noise_data/aws-normal_c5.18xlarge_cluster/2022_03_26_10_07_26,57848.4226,16777216
+148,os,Simulated,nwaydissemination,AWS,Normal,16,../../cloud_noise_data/aws-normal_c5.18xlarge_cluster/2022_03_26_10_07_26,58604.28774,16777216
+149,net,Simulated,nwaydissemination,AWS,Normal,16,../../cloud_noise_data/aws-normal_c5.18xlarge_cluster/2022_03_26_10_07_26,58455.310466,16777216
+150,os+net,Simulated,nwaydissemination,AWS,Normal,16,../../cloud_noise_data/aws-normal_c5.18xlarge_cluster/2022_03_26_10_07_26,58652.170434,16777216
+151,os,Simulated,nwaydissemination,AWS,Normal,16,../../cloud_noise_data/aws-normal_c5.18xlarge_cluster/2022_03_26_10_07_26,58151.53122,16777216
+152,net,Simulated,nwaydissemination,AWS,Normal,16,../../cloud_noise_data/aws-normal_c5.18xlarge_cluster/2022_03_26_10_07_26,58181.353014,16777216
+153,os+net,Simulated,nwaydissemination,AWS,Normal,16,../../cloud_noise_data/aws-normal_c5.18xlarge_cluster/2022_03_26_10_07_26,58816.236664,16777216
+154,none,Simulated,pipelinedring,AWS,Normal,16,../../cloud_noise_data/aws-normal_c5.18xlarge_cluster/2022_03_26_10_07_26,2384.692,16777216
+155,os,Simulated,pipelinedring,AWS,Normal,16,../../cloud_noise_data/aws-normal_c5.18xlarge_cluster/2022_03_26_10_07_26,2399.378026,16777216
+156,net,Simulated,pipelinedring,AWS,Normal,16,../../cloud_noise_data/aws-normal_c5.18xlarge_cluster/2022_03_26_10_07_26,2753.839305,16777216
+157,os+net,Simulated,pipelinedring,AWS,Normal,16,../../cloud_noise_data/aws-normal_c5.18xlarge_cluster/2022_03_26_10_07_26,2715.144921,16777216
+158,os,Simulated,pipelinedring,AWS,Normal,16,../../cloud_noise_data/aws-normal_c5.18xlarge_cluster/2022_03_26_10_07_26,2391.36437,16777216
+159,net,Simulated,pipelinedring,AWS,Normal,16,../../cloud_noise_data/aws-normal_c5.18xlarge_cluster/2022_03_26_10_07_26,2726.394762,16777216
+160,os+net,Simulated,pipelinedring,AWS,Normal,16,../../cloud_noise_data/aws-normal_c5.18xlarge_cluster/2022_03_26_10_07_26,2735.953498,16777216
+161,none,Simulated,linear_alltoall,AWS,Normal,16,../../cloud_noise_data/aws-normal_c5.18xlarge_cluster/2022_03_26_10_07_26,28187.90475,16777216
+162,os,Simulated,linear_alltoall,AWS,Normal,16,../../cloud_noise_data/aws-normal_c5.18xlarge_cluster/2022_03_26_10_07_26,28200.2096,16777216
+163,net,Simulated,linear_alltoall,AWS,Normal,16,../../cloud_noise_data/aws-normal_c5.18xlarge_cluster/2022_03_26_10_07_26,40080.565081,16777216
+164,os+net,Simulated,linear_alltoall,AWS,Normal,16,../../cloud_noise_data/aws-normal_c5.18xlarge_cluster/2022_03_26_10_07_26,40508.515773,16777216
+165,os,Simulated,linear_alltoall,AWS,Normal,16,../../cloud_noise_data/aws-normal_c5.18xlarge_cluster/2022_03_26_10_07_26,28193.96018,16777216
+166,net,Simulated,linear_alltoall,AWS,Normal,16,../../cloud_noise_data/aws-normal_c5.18xlarge_cluster/2022_03_26_10_07_26,39904.392661,16777216
+167,os+net,Simulated,linear_alltoall,AWS,Normal,16,../../cloud_noise_data/aws-normal_c5.18xlarge_cluster/2022_03_26_10_07_26,40737.142612,16777216
+168,none,Simulated,binomialtreebcast,Azure,HPC (Metal),4,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,5.28261,16
+169,os,Simulated,binomialtreebcast,Azure,HPC (Metal),4,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,5.28261,16
+170,net,Simulated,binomialtreebcast,Azure,HPC (Metal),4,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,5.175189,16
+171,os+net,Simulated,binomialtreebcast,Azure,HPC (Metal),4,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,5.175189,16
+172,os,Simulated,binomialtreebcast,Azure,HPC (Metal),4,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,5.28261,16
+173,net,Simulated,binomialtreebcast,Azure,HPC (Metal),4,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,5.145062,16
+174,os+net,Simulated,binomialtreebcast,Azure,HPC (Metal),4,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,5.145062,16
+175,none,Simulated,nwaydissemination,Azure,HPC (Metal),4,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,5.29861,16
+176,os,Simulated,nwaydissemination,Azure,HPC (Metal),4,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,5.29861,16
+177,net,Simulated,nwaydissemination,Azure,HPC (Metal),4,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,5.67604,16
+178,os+net,Simulated,nwaydissemination,Azure,HPC (Metal),4,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,5.67604,16
+179,os,Simulated,nwaydissemination,Azure,HPC (Metal),4,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,5.29861,16
+180,net,Simulated,nwaydissemination,Azure,HPC (Metal),4,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,5.67604,16
+181,os+net,Simulated,nwaydissemination,Azure,HPC (Metal),4,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,5.306982,16
+182,none,Simulated,pipelinedring,Azure,HPC (Metal),4,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,10.561044,16
+183,os,Simulated,pipelinedring,Azure,HPC (Metal),4,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,10.561044,16
+184,net,Simulated,pipelinedring,Azure,HPC (Metal),4,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,10.554463,16
+185,os+net,Simulated,pipelinedring,Azure,HPC (Metal),4,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,10.453165,16
+186,os,Simulated,pipelinedring,Azure,HPC (Metal),4,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,10.561044,16
+187,net,Simulated,pipelinedring,Azure,HPC (Metal),4,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,10.453165,16
+188,os+net,Simulated,pipelinedring,Azure,HPC (Metal),4,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,10.453165,16
+189,none,Simulated,linear_alltoall,Azure,HPC (Metal),4,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,3.643915,16
+190,os,Simulated,linear_alltoall,Azure,HPC (Metal),4,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,3.643915,16
+191,net,Simulated,linear_alltoall,Azure,HPC (Metal),4,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,3.89545,16
+192,os+net,Simulated,linear_alltoall,Azure,HPC (Metal),4,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,3.89545,16
+193,os,Simulated,linear_alltoall,Azure,HPC (Metal),4,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,3.643915,16
+194,net,Simulated,linear_alltoall,Azure,HPC (Metal),4,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,3.89545,16
+195,os+net,Simulated,linear_alltoall,Azure,HPC (Metal),4,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,4.071041,16
+196,none,Simulated,binomialtreebcast,Azure,HPC (Metal),4,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,8.130642,16384
+197,os,Simulated,binomialtreebcast,Azure,HPC (Metal),4,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,8.130642,16384
+198,net,Simulated,binomialtreebcast,Azure,HPC (Metal),4,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,8.550719,16384
+199,os+net,Simulated,binomialtreebcast,Azure,HPC (Metal),4,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,7.975328,16384
+200,os,Simulated,binomialtreebcast,Azure,HPC (Metal),4,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,8.130642,16384
+201,net,Simulated,binomialtreebcast,Azure,HPC (Metal),4,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,7.975328,16384
+202,os+net,Simulated,binomialtreebcast,Azure,HPC (Metal),4,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,7.975328,16384
+203,none,Simulated,nwaydissemination,Azure,HPC (Metal),4,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,24.514642,16384
+204,os,Simulated,nwaydissemination,Azure,HPC (Metal),4,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,24.514642,16384
+205,net,Simulated,nwaydissemination,Azure,HPC (Metal),4,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,24.455654,16384
+206,os+net,Simulated,nwaydissemination,Azure,HPC (Metal),4,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,24.455654,16384
+207,os,Simulated,nwaydissemination,Azure,HPC (Metal),4,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,24.514642,16384
+208,net,Simulated,nwaydissemination,Azure,HPC (Metal),4,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,25.135298,16384
+209,os+net,Simulated,nwaydissemination,Azure,HPC (Metal),4,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,25.135298,16384
+210,none,Simulated,pipelinedring,Azure,HPC (Metal),4,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,11.98506,16384
+211,os,Simulated,pipelinedring,Azure,HPC (Metal),4,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,11.98506,16384
+212,net,Simulated,pipelinedring,Azure,HPC (Metal),4,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,12.415827,16384
+213,os+net,Simulated,pipelinedring,Azure,HPC (Metal),4,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,12.139925,16384
+214,os,Simulated,pipelinedring,Azure,HPC (Metal),4,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,11.98506,16384
+215,net,Simulated,pipelinedring,Azure,HPC (Metal),4,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,12.139925,16384
+216,os+net,Simulated,pipelinedring,Azure,HPC (Metal),4,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,12.139925,16384
+217,none,Simulated,linear_alltoall,Azure,HPC (Metal),4,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,8.415963,16384
+218,os,Simulated,linear_alltoall,Azure,HPC (Metal),4,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,8.415963,16384
+219,net,Simulated,linear_alltoall,Azure,HPC (Metal),4,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,8.476907,16384
+220,os+net,Simulated,linear_alltoall,Azure,HPC (Metal),4,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,8.476907,16384
+221,os,Simulated,linear_alltoall,Azure,HPC (Metal),4,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,8.415963,16384
+222,net,Simulated,linear_alltoall,Azure,HPC (Metal),4,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,8.364901,16384
+223,os+net,Simulated,linear_alltoall,Azure,HPC (Metal),4,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,8.364901,16384
+224,none,Simulated,binomialtreebcast,Azure,HPC (Metal),4,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,2924.51541,16777216
+225,os,Simulated,binomialtreebcast,Azure,HPC (Metal),4,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,2924.51541,16777216
+226,net,Simulated,binomialtreebcast,Azure,HPC (Metal),4,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,2907.591457,16777216
+227,os+net,Simulated,binomialtreebcast,Azure,HPC (Metal),4,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,2905.192613,16777216
+228,os,Simulated,binomialtreebcast,Azure,HPC (Metal),4,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,2924.51541,16777216
+229,net,Simulated,binomialtreebcast,Azure,HPC (Metal),4,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,2905.192613,16777216
+230,os+net,Simulated,binomialtreebcast,Azure,HPC (Metal),4,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,2905.192613,16777216
+231,none,Simulated,nwaydissemination,Azure,HPC (Metal),4,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,19701.73141,16777216
+232,os,Simulated,nwaydissemination,Azure,HPC (Metal),4,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,19763.80879,16777216
+233,net,Simulated,nwaydissemination,Azure,HPC (Metal),4,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,19735.129192,16777216
+234,os+net,Simulated,nwaydissemination,Azure,HPC (Metal),4,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,19793.199582,16777216
+235,os,Simulated,nwaydissemination,Azure,HPC (Metal),4,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,19765.51791,16777216
+236,net,Simulated,nwaydissemination,Azure,HPC (Metal),4,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,19684.820926,16777216
+237,os+net,Simulated,nwaydissemination,Azure,HPC (Metal),4,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,19741.488884,16777216
+238,none,Simulated,pipelinedring,Azure,HPC (Metal),4,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,1470.177444,16777216
+239,os,Simulated,pipelinedring,Azure,HPC (Metal),4,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,1470.177444,16777216
+240,net,Simulated,pipelinedring,Azure,HPC (Metal),4,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,1827.242059,16777216
+241,os+net,Simulated,pipelinedring,Azure,HPC (Metal),4,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,1824.942948,16777216
+242,os,Simulated,pipelinedring,Azure,HPC (Metal),4,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,1470.177444,16777216
+243,net,Simulated,pipelinedring,Azure,HPC (Metal),4,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,1824.942948,16777216
+244,os+net,Simulated,pipelinedring,Azure,HPC (Metal),4,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,1824.942948,16777216
+245,none,Simulated,linear_alltoall,Azure,HPC (Metal),4,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,4386.773115,16777216
+246,os,Simulated,linear_alltoall,Azure,HPC (Metal),4,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,4386.773115,16777216
+247,net,Simulated,linear_alltoall,Azure,HPC (Metal),4,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,5813.647982,16777216
+248,os+net,Simulated,linear_alltoall,Azure,HPC (Metal),4,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,5813.647982,16777216
+249,os,Simulated,linear_alltoall,Azure,HPC (Metal),4,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,4386.773115,16777216
+250,net,Simulated,linear_alltoall,Azure,HPC (Metal),4,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,5813.647982,16777216
+251,os+net,Simulated,linear_alltoall,Azure,HPC (Metal),4,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,4386.632172,16777216
+252,none,Simulated,binomialtreebcast,Azure,HPC (Metal),8,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,7.923915,16
+253,os,Simulated,binomialtreebcast,Azure,HPC (Metal),8,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,7.923915,16
+254,net,Simulated,binomialtreebcast,Azure,HPC (Metal),8,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,7.878603,16
+255,os+net,Simulated,binomialtreebcast,Azure,HPC (Metal),8,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,7.763163,16
+256,os,Simulated,binomialtreebcast,Azure,HPC (Metal),8,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,7.923915,16
+257,net,Simulated,binomialtreebcast,Azure,HPC (Metal),8,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,7.763163,16
+258,os+net,Simulated,binomialtreebcast,Azure,HPC (Metal),8,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,7.763163,16
+259,none,Simulated,nwaydissemination,Azure,HPC (Metal),8,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,7.955915,16
+260,os,Simulated,nwaydissemination,Azure,HPC (Metal),8,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,7.955915,16
+261,net,Simulated,nwaydissemination,Azure,HPC (Metal),8,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,8.680496,16
+262,os+net,Simulated,nwaydissemination,Azure,HPC (Metal),8,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,8.680496,16
+263,os,Simulated,nwaydissemination,Azure,HPC (Metal),8,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,7.955915,16
+264,net,Simulated,nwaydissemination,Azure,HPC (Metal),8,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,8.001978,16
+265,os+net,Simulated,nwaydissemination,Azure,HPC (Metal),8,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,9.499161,16
+266,none,Simulated,pipelinedring,Azure,HPC (Metal),8,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,21.120696,16
+267,os,Simulated,pipelinedring,Azure,HPC (Metal),8,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,21.120696,16
+268,net,Simulated,pipelinedring,Azure,HPC (Metal),8,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,21.321434,16
+269,os+net,Simulated,pipelinedring,Azure,HPC (Metal),8,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,22.419546,16
+270,os,Simulated,pipelinedring,Azure,HPC (Metal),8,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,21.120696,16
+271,net,Simulated,pipelinedring,Azure,HPC (Metal),8,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,22.325097,16
+272,os+net,Simulated,pipelinedring,Azure,HPC (Metal),8,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,22.325097,16
+273,none,Simulated,linear_alltoall,Azure,HPC (Metal),8,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,7.009135,16
+274,os,Simulated,linear_alltoall,Azure,HPC (Metal),8,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,7.009135,16
+275,net,Simulated,linear_alltoall,Azure,HPC (Metal),8,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,7.009135,16
+276,os+net,Simulated,linear_alltoall,Azure,HPC (Metal),8,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,7.009135,16
+277,os,Simulated,linear_alltoall,Azure,HPC (Metal),8,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,7.009135,16
+278,net,Simulated,linear_alltoall,Azure,HPC (Metal),8,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,7.00915,16
+279,os+net,Simulated,linear_alltoall,Azure,HPC (Metal),8,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,7.00915,16
+280,none,Simulated,binomialtreebcast,Azure,HPC (Metal),8,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,12.195963,16384
+281,os,Simulated,binomialtreebcast,Azure,HPC (Metal),8,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,12.195963,16384
+282,net,Simulated,binomialtreebcast,Azure,HPC (Metal),8,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,12.062272,16384
+283,os+net,Simulated,binomialtreebcast,Azure,HPC (Metal),8,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,11.957694,16384
+284,os,Simulated,binomialtreebcast,Azure,HPC (Metal),8,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,12.195963,16384
+285,net,Simulated,binomialtreebcast,Azure,HPC (Metal),8,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,11.957694,16384
+286,os+net,Simulated,binomialtreebcast,Azure,HPC (Metal),8,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,11.957694,16384
+287,none,Simulated,nwaydissemination,Azure,HPC (Metal),8,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,44.963963,16384
+288,os,Simulated,nwaydissemination,Azure,HPC (Metal),8,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,45.737593,16384
+289,net,Simulated,nwaydissemination,Azure,HPC (Metal),8,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,45.758452,16384
+290,os+net,Simulated,nwaydissemination,Azure,HPC (Metal),8,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,45.758452,16384
+291,os,Simulated,nwaydissemination,Azure,HPC (Metal),8,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,44.963963,16384
+292,net,Simulated,nwaydissemination,Azure,HPC (Metal),8,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,45.16913,16384
+293,os+net,Simulated,nwaydissemination,Azure,HPC (Metal),8,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,46.846557,16384
+294,none,Simulated,pipelinedring,Azure,HPC (Metal),8,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,22.544712,16384
+295,os,Simulated,pipelinedring,Azure,HPC (Metal),8,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,22.544712,16384
+296,net,Simulated,pipelinedring,Azure,HPC (Metal),8,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,23.829308,16384
+297,os+net,Simulated,pipelinedring,Azure,HPC (Metal),8,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,23.411189,16384
+298,os,Simulated,pipelinedring,Azure,HPC (Metal),8,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,22.544712,16384
+299,net,Simulated,pipelinedring,Azure,HPC (Metal),8,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,23.411189,16384
+300,os+net,Simulated,pipelinedring,Azure,HPC (Metal),8,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,22.898427,16384
+301,none,Simulated,linear_alltoall,Azure,HPC (Metal),8,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,18.117247,16384
+302,os,Simulated,linear_alltoall,Azure,HPC (Metal),8,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,18.117247,16384
+303,net,Simulated,linear_alltoall,Azure,HPC (Metal),8,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,18.213632,16384
+304,os+net,Simulated,linear_alltoall,Azure,HPC (Metal),8,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,18.213632,16384
+305,os,Simulated,linear_alltoall,Azure,HPC (Metal),8,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,18.117247,16384
+306,net,Simulated,linear_alltoall,Azure,HPC (Metal),8,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,18.200051,16384
+307,os+net,Simulated,linear_alltoall,Azure,HPC (Metal),8,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,18.200051,16384
+308,none,Simulated,binomialtreebcast,Azure,HPC (Metal),8,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,4386.773115,16777216
+309,os,Simulated,binomialtreebcast,Azure,HPC (Metal),8,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,4386.773115,16777216
+310,net,Simulated,binomialtreebcast,Azure,HPC (Metal),8,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,4386.614462,16777216
+311,os+net,Simulated,binomialtreebcast,Azure,HPC (Metal),8,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,4386.614462,16777216
+312,os,Simulated,binomialtreebcast,Azure,HPC (Metal),8,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,4386.773115,16777216
+313,net,Simulated,binomialtreebcast,Azure,HPC (Metal),8,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,4386.614462,16777216
+314,os+net,Simulated,binomialtreebcast,Azure,HPC (Metal),8,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,4370.487856,16777216
+315,none,Simulated,nwaydissemination,Azure,HPC (Metal),8,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,37941.205115,16777216
+316,os,Simulated,nwaydissemination,Azure,HPC (Metal),8,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,38076.332525,16777216
+317,net,Simulated,nwaydissemination,Azure,HPC (Metal),8,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,37957.815181,16777216
+318,os+net,Simulated,nwaydissemination,Azure,HPC (Metal),8,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,38082.437681,16777216
+319,os,Simulated,nwaydissemination,Azure,HPC (Metal),8,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,38111.296515,16777216
+320,net,Simulated,nwaydissemination,Azure,HPC (Metal),8,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,37941.240193,16777216
+321,os+net,Simulated,nwaydissemination,Azure,HPC (Metal),8,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,38056.414963,16777216
+322,none,Simulated,pipelinedring,Azure,HPC (Metal),8,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,1480.737096,16777216
+323,os,Simulated,pipelinedring,Azure,HPC (Metal),8,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,1480.737096,16777216
+324,net,Simulated,pipelinedring,Azure,HPC (Metal),8,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,1477.221793,16777216
+325,os+net,Simulated,pipelinedring,Azure,HPC (Metal),8,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,1477.221793,16777216
+326,os,Simulated,pipelinedring,Azure,HPC (Metal),8,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,1483.680264,16777216
+327,net,Simulated,pipelinedring,Azure,HPC (Metal),8,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,1477.221793,16777216
+328,os+net,Simulated,pipelinedring,Azure,HPC (Metal),8,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,1475.031844,16777216
+329,none,Simulated,linear_alltoall,Azure,HPC (Metal),8,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,10235.803935,16777216
+330,os,Simulated,linear_alltoall,Azure,HPC (Metal),8,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,10235.803935,16777216
+331,net,Simulated,linear_alltoall,Azure,HPC (Metal),8,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,13118.485832,16777216
+332,os+net,Simulated,linear_alltoall,Azure,HPC (Metal),8,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,13134.391879,16777216
+333,os,Simulated,linear_alltoall,Azure,HPC (Metal),8,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,10235.803935,16777216
+334,net,Simulated,linear_alltoall,Azure,HPC (Metal),8,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,13134.391879,16777216
+335,os+net,Simulated,linear_alltoall,Azure,HPC (Metal),8,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,13104.710732,16777216
+336,none,Simulated,binomialtreebcast,Azure,HPC (Metal),16,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,10.56522,16
+337,os,Simulated,binomialtreebcast,Azure,HPC (Metal),16,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,10.56522,16
+338,net,Simulated,binomialtreebcast,Azure,HPC (Metal),16,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,10.350004,16
+339,os+net,Simulated,binomialtreebcast,Azure,HPC (Metal),16,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,10.350004,16
+340,os,Simulated,binomialtreebcast,Azure,HPC (Metal),16,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,10.56522,16
+341,net,Simulated,binomialtreebcast,Azure,HPC (Metal),16,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,10.720098,16
+342,os+net,Simulated,binomialtreebcast,Azure,HPC (Metal),16,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,10.720098,16
+343,none,Simulated,nwaydissemination,Azure,HPC (Metal),16,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,10.61322,16
+344,os,Simulated,nwaydissemination,Azure,HPC (Metal),16,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,13.9416,16
+345,net,Simulated,nwaydissemination,Azure,HPC (Metal),16,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,10.887427,16
+346,os+net,Simulated,nwaydissemination,Azure,HPC (Metal),16,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,10.887427,16
+347,os,Simulated,nwaydissemination,Azure,HPC (Metal),16,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,10.61322,16
+348,net,Simulated,nwaydissemination,Azure,HPC (Metal),16,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,10.887427,16
+349,os+net,Simulated,nwaydissemination,Azure,HPC (Metal),16,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,11.034418,16
+350,none,Simulated,pipelinedring,Azure,HPC (Metal),16,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,42.24,16
+351,os,Simulated,pipelinedring,Azure,HPC (Metal),16,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,44.230793,16
+352,net,Simulated,pipelinedring,Azure,HPC (Metal),16,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,44.68679,16
+353,os+net,Simulated,pipelinedring,Azure,HPC (Metal),16,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,46.521243,16
+354,os,Simulated,pipelinedring,Azure,HPC (Metal),16,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,45.14017,16
+355,net,Simulated,pipelinedring,Azure,HPC (Metal),16,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,46.521243,16
+356,os+net,Simulated,pipelinedring,Azure,HPC (Metal),16,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,46.521243,16
+357,none,Simulated,linear_alltoall,Azure,HPC (Metal),16,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,15.019575,16
+358,os,Simulated,linear_alltoall,Azure,HPC (Metal),16,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,15.019575,16
+359,net,Simulated,linear_alltoall,Azure,HPC (Metal),16,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,15.01953,16
+360,os+net,Simulated,linear_alltoall,Azure,HPC (Metal),16,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,15.01953,16
+361,os,Simulated,linear_alltoall,Azure,HPC (Metal),16,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,15.019575,16
+362,net,Simulated,linear_alltoall,Azure,HPC (Metal),16,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,15.01953,16
+363,os+net,Simulated,linear_alltoall,Azure,HPC (Metal),16,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,15.01953,16
+364,none,Simulated,binomialtreebcast,Azure,HPC (Metal),16,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,16.261284,16384
+365,os,Simulated,binomialtreebcast,Azure,HPC (Metal),16,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,16.261284,16384
+366,net,Simulated,binomialtreebcast,Azure,HPC (Metal),16,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,16.49631,16384
+367,os+net,Simulated,binomialtreebcast,Azure,HPC (Metal),16,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,15.927873,16384
+368,os,Simulated,binomialtreebcast,Azure,HPC (Metal),16,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,16.261284,16384
+369,net,Simulated,binomialtreebcast,Azure,HPC (Metal),16,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,15.927873,16384
+370,os+net,Simulated,binomialtreebcast,Azure,HPC (Metal),16,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,15.927873,16384
+371,none,Simulated,nwaydissemination,Azure,HPC (Metal),16,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,65.413284,16384
+372,os,Simulated,nwaydissemination,Azure,HPC (Metal),16,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,65.413284,16384
+373,net,Simulated,nwaydissemination,Azure,HPC (Metal),16,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,65.869836,16384
+374,os+net,Simulated,nwaydissemination,Azure,HPC (Metal),16,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,65.869836,16384
+375,os,Simulated,nwaydissemination,Azure,HPC (Metal),16,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,68.653314,16384
+376,net,Simulated,nwaydissemination,Azure,HPC (Metal),16,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,65.751916,16384
+377,os+net,Simulated,nwaydissemination,Azure,HPC (Metal),16,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,68.696669,16384
+378,none,Simulated,pipelinedring,Azure,HPC (Metal),16,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,43.664016,16384
+379,os,Simulated,pipelinedring,Azure,HPC (Metal),16,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,45.304886,16384
+380,net,Simulated,pipelinedring,Azure,HPC (Metal),16,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,46.897519,16384
+381,os+net,Simulated,pipelinedring,Azure,HPC (Metal),16,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,47.826446,16384
+382,os,Simulated,pipelinedring,Azure,HPC (Metal),16,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,46.81073,16384
+383,net,Simulated,pipelinedring,Azure,HPC (Metal),16,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,47.73042,16384
+384,os+net,Simulated,pipelinedring,Azure,HPC (Metal),16,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,47.73042,16384
+385,none,Simulated,linear_alltoall,Azure,HPC (Metal),16,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,37.519815,16384
+386,os,Simulated,linear_alltoall,Azure,HPC (Metal),16,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,39.361142,16384
+387,net,Simulated,linear_alltoall,Azure,HPC (Metal),16,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,38.02062,16384
+388,os+net,Simulated,linear_alltoall,Azure,HPC (Metal),16,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,38.02062,16384
+389,os,Simulated,linear_alltoall,Azure,HPC (Metal),16,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,39.571336,16384
+390,net,Simulated,linear_alltoall,Azure,HPC (Metal),16,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,38.432236,16384
+391,os+net,Simulated,linear_alltoall,Azure,HPC (Metal),16,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,38.432236,16384
+392,none,Simulated,binomialtreebcast,Azure,HPC (Metal),16,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,5849.03082,16777216
+393,os,Simulated,binomialtreebcast,Azure,HPC (Metal),16,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,5849.03082,16777216
+394,net,Simulated,binomialtreebcast,Azure,HPC (Metal),16,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,5844.152154,16777216
+395,os+net,Simulated,binomialtreebcast,Azure,HPC (Metal),16,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,5844.152154,16777216
+396,os,Simulated,binomialtreebcast,Azure,HPC (Metal),16,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,5849.03082,16777216
+397,net,Simulated,binomialtreebcast,Azure,HPC (Metal),16,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,5844.152154,16777216
+398,os+net,Simulated,binomialtreebcast,Azure,HPC (Metal),16,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,5793.647309,16777216
+399,none,Simulated,nwaydissemination,Azure,HPC (Metal),16,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,56180.67882,16777216
+400,os,Simulated,nwaydissemination,Azure,HPC (Metal),16,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,56369.98027,16777216
+401,net,Simulated,nwaydissemination,Azure,HPC (Metal),16,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,56180.595025,16777216
+402,os+net,Simulated,nwaydissemination,Azure,HPC (Metal),16,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,56408.315435,16777216
+403,os,Simulated,nwaydissemination,Azure,HPC (Metal),16,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,56364.52335,16777216
+404,net,Simulated,nwaydissemination,Azure,HPC (Metal),16,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,56179.073177,16777216
+405,os+net,Simulated,nwaydissemination,Azure,HPC (Metal),16,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,56347.052176,16777216
+406,none,Simulated,pipelinedring,Azure,HPC (Metal),16,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,1501.8564,16777216
+407,os,Simulated,pipelinedring,Azure,HPC (Metal),16,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,1504.58198,16777216
+408,net,Simulated,pipelinedring,Azure,HPC (Metal),16,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,1588.074203,16777216
+409,os+net,Simulated,pipelinedring,Azure,HPC (Metal),16,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,1588.074203,16777216
+410,os,Simulated,pipelinedring,Azure,HPC (Metal),16,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,1501.8564,16777216
+411,net,Simulated,pipelinedring,Azure,HPC (Metal),16,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,1588.074203,16777216
+412,os+net,Simulated,pipelinedring,Azure,HPC (Metal),16,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,1591.591482,16777216
+413,none,Simulated,linear_alltoall,Azure,HPC (Metal),16,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,21933.865575,16777216
+414,os,Simulated,linear_alltoall,Azure,HPC (Metal),16,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,21935.989625,16777216
+415,net,Simulated,linear_alltoall,Azure,HPC (Metal),16,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,29081.523098,16777216
+416,os+net,Simulated,linear_alltoall,Azure,HPC (Metal),16,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,29056.609209,16777216
+417,os,Simulated,linear_alltoall,Azure,HPC (Metal),16,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,21936.902626,16777216
+418,net,Simulated,linear_alltoall,Azure,HPC (Metal),16,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,27816.465565,16777216
+419,os+net,Simulated,linear_alltoall,Azure,HPC (Metal),16,../../cloud_noise_data/azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11,29096.799068,16777216
+420,none,Simulated,binomialtreebcast,Azure,Normal,4,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,5.28261,16
+421,os,Simulated,binomialtreebcast,Azure,Normal,4,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,5.28261,16
+422,net,Simulated,binomialtreebcast,Azure,Normal,4,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,5.05795,16
+423,os+net,Simulated,binomialtreebcast,Azure,Normal,4,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,5.05795,16
+424,os,Simulated,binomialtreebcast,Azure,Normal,4,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,5.28261,16
+425,net,Simulated,binomialtreebcast,Azure,Normal,4,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,5.05795,16
+426,os+net,Simulated,binomialtreebcast,Azure,Normal,4,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,5.05795,16
+427,none,Simulated,nwaydissemination,Azure,Normal,4,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,5.29861,16
+428,os,Simulated,nwaydissemination,Azure,Normal,4,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,5.29861,16
+429,net,Simulated,nwaydissemination,Azure,Normal,4,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,5.388311,16
+430,os+net,Simulated,nwaydissemination,Azure,Normal,4,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,5.388311,16
+431,os,Simulated,nwaydissemination,Azure,Normal,4,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,5.29861,16
+432,net,Simulated,nwaydissemination,Azure,Normal,4,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,5.388311,16
+433,os+net,Simulated,nwaydissemination,Azure,Normal,4,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,5.388311,16
+434,none,Simulated,pipelinedring,Azure,Normal,4,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,10.561044,16
+435,os,Simulated,pipelinedring,Azure,Normal,4,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,10.561044,16
+436,net,Simulated,pipelinedring,Azure,Normal,4,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,11.560435,16
+437,os+net,Simulated,pipelinedring,Azure,Normal,4,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,11.560435,16
+438,os,Simulated,pipelinedring,Azure,Normal,4,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,12.364204,16
+439,net,Simulated,pipelinedring,Azure,Normal,4,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,11.560435,16
+440,os+net,Simulated,pipelinedring,Azure,Normal,4,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,10.63692,16
+441,none,Simulated,linear_alltoall,Azure,Normal,4,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,3.643915,16
+442,os,Simulated,linear_alltoall,Azure,Normal,4,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,3.643915,16
+443,net,Simulated,linear_alltoall,Azure,Normal,4,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,4.268682,16
+444,os+net,Simulated,linear_alltoall,Azure,Normal,4,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,4.268682,16
+445,os,Simulated,linear_alltoall,Azure,Normal,4,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,3.643915,16
+446,net,Simulated,linear_alltoall,Azure,Normal,4,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,4.268682,16
+447,os+net,Simulated,linear_alltoall,Azure,Normal,4,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,4.367798,16
+448,none,Simulated,binomialtreebcast,Azure,Normal,4,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,8.130642,16384
+449,os,Simulated,binomialtreebcast,Azure,Normal,4,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,8.130642,16384
+450,net,Simulated,binomialtreebcast,Azure,Normal,4,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,7.806334,16384
+451,os+net,Simulated,binomialtreebcast,Azure,Normal,4,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,7.806334,16384
+452,os,Simulated,binomialtreebcast,Azure,Normal,4,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,20.503342,16384
+453,net,Simulated,binomialtreebcast,Azure,Normal,4,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,8.543593,16384
+454,os+net,Simulated,binomialtreebcast,Azure,Normal,4,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,8.543593,16384
+455,none,Simulated,nwaydissemination,Azure,Normal,4,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,24.514642,16384
+456,os,Simulated,nwaydissemination,Azure,Normal,4,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,24.514642,16384
+457,net,Simulated,nwaydissemination,Azure,Normal,4,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,24.908983,16384
+458,os+net,Simulated,nwaydissemination,Azure,Normal,4,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,24.908983,16384
+459,os,Simulated,nwaydissemination,Azure,Normal,4,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,24.514642,16384
+460,net,Simulated,nwaydissemination,Azure,Normal,4,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,24.321905,16384
+461,os+net,Simulated,nwaydissemination,Azure,Normal,4,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,26.198369,16384
+462,none,Simulated,pipelinedring,Azure,Normal,4,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,11.98506,16384
+463,os,Simulated,pipelinedring,Azure,Normal,4,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,11.98506,16384
+464,net,Simulated,pipelinedring,Azure,Normal,4,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,12.113439,16384
+465,os+net,Simulated,pipelinedring,Azure,Normal,4,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,12.432579,16384
+466,os,Simulated,pipelinedring,Azure,Normal,4,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,11.98506,16384
+467,net,Simulated,pipelinedring,Azure,Normal,4,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,12.432579,16384
+468,os+net,Simulated,pipelinedring,Azure,Normal,4,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,12.432579,16384
+469,none,Simulated,linear_alltoall,Azure,Normal,4,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,8.415963,16384
+470,os,Simulated,linear_alltoall,Azure,Normal,4,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,8.415963,16384
+471,net,Simulated,linear_alltoall,Azure,Normal,4,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,8.709605,16384
+472,os+net,Simulated,linear_alltoall,Azure,Normal,4,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,8.570773,16384
+473,os,Simulated,linear_alltoall,Azure,Normal,4,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,8.415963,16384
+474,net,Simulated,linear_alltoall,Azure,Normal,4,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,8.570773,16384
+475,os+net,Simulated,linear_alltoall,Azure,Normal,4,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,8.570773,16384
+476,none,Simulated,binomialtreebcast,Azure,Normal,4,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,2924.51541,16777216
+477,os,Simulated,binomialtreebcast,Azure,Normal,4,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,2924.51541,16777216
+478,net,Simulated,binomialtreebcast,Azure,Normal,4,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,2889.00675,16777216
+479,os+net,Simulated,binomialtreebcast,Azure,Normal,4,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,2889.00675,16777216
+480,os,Simulated,binomialtreebcast,Azure,Normal,4,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,2924.51541,16777216
+481,net,Simulated,binomialtreebcast,Azure,Normal,4,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,2889.00675,16777216
+482,os+net,Simulated,binomialtreebcast,Azure,Normal,4,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,2889.00675,16777216
+483,none,Simulated,nwaydissemination,Azure,Normal,4,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,19701.73141,16777216
+484,os,Simulated,nwaydissemination,Azure,Normal,4,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,19984.87304,16777216
+485,net,Simulated,nwaydissemination,Azure,Normal,4,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,19735.147135,16777216
+486,os+net,Simulated,nwaydissemination,Azure,Normal,4,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,19953.180854,16777216
+487,os,Simulated,nwaydissemination,Azure,Normal,4,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,19928.53371,16777216
+488,net,Simulated,nwaydissemination,Azure,Normal,4,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,19735.147135,16777216
+489,os+net,Simulated,nwaydissemination,Azure,Normal,4,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,19910.974883,16777216
+490,none,Simulated,pipelinedring,Azure,Normal,4,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,1470.177444,16777216
+491,os,Simulated,pipelinedring,Azure,Normal,4,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,1470.177444,16777216
+492,net,Simulated,pipelinedring,Azure,Normal,4,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,1840.044178,16777216
+493,os+net,Simulated,pipelinedring,Azure,Normal,4,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,1840.044178,16777216
+494,os,Simulated,pipelinedring,Azure,Normal,4,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,1470.177444,16777216
+495,net,Simulated,pipelinedring,Azure,Normal,4,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,1840.044178,16777216
+496,os+net,Simulated,pipelinedring,Azure,Normal,4,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,1844.880924,16777216
+497,none,Simulated,linear_alltoall,Azure,Normal,4,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,4386.773115,16777216
+498,os,Simulated,linear_alltoall,Azure,Normal,4,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,4386.773115,16777216
+499,net,Simulated,linear_alltoall,Azure,Normal,4,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,5863.325672,16777216
+500,os+net,Simulated,linear_alltoall,Azure,Normal,4,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,5863.325672,16777216
+501,os,Simulated,linear_alltoall,Azure,Normal,4,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,4386.773115,16777216
+502,net,Simulated,linear_alltoall,Azure,Normal,4,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,5794.652705,16777216
+503,os+net,Simulated,linear_alltoall,Azure,Normal,4,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,5794.652705,16777216
+504,none,Simulated,binomialtreebcast,Azure,Normal,8,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,7.923915,16
+505,os,Simulated,binomialtreebcast,Azure,Normal,8,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,7.923915,16
+506,net,Simulated,binomialtreebcast,Azure,Normal,8,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,7.632622,16
+507,os+net,Simulated,binomialtreebcast,Azure,Normal,8,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,7.632622,16
+508,os,Simulated,binomialtreebcast,Azure,Normal,8,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,7.923915,16
+509,net,Simulated,binomialtreebcast,Azure,Normal,8,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,8.154995,16
+510,os+net,Simulated,binomialtreebcast,Azure,Normal,8,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,8.154995,16
+511,none,Simulated,nwaydissemination,Azure,Normal,8,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,7.955915,16
+512,os,Simulated,nwaydissemination,Azure,Normal,8,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,7.955915,16
+513,net,Simulated,nwaydissemination,Azure,Normal,8,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,8.843367,16
+514,os+net,Simulated,nwaydissemination,Azure,Normal,8,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,9.258161,16
+515,os,Simulated,nwaydissemination,Azure,Normal,8,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,7.955915,16
+516,net,Simulated,nwaydissemination,Azure,Normal,8,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,9.258161,16
+517,os+net,Simulated,nwaydissemination,Azure,Normal,8,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,9.258161,16
+518,none,Simulated,pipelinedring,Azure,Normal,8,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,21.120696,16
+519,os,Simulated,pipelinedring,Azure,Normal,8,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,21.120696,16
+520,net,Simulated,pipelinedring,Azure,Normal,8,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,23.981533,16
+521,os+net,Simulated,pipelinedring,Azure,Normal,8,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,22.255409,16
+522,os,Simulated,pipelinedring,Azure,Normal,8,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,21.120696,16
+523,net,Simulated,pipelinedring,Azure,Normal,8,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,22.255409,16
+524,os+net,Simulated,pipelinedring,Azure,Normal,8,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,22.255409,16
+525,none,Simulated,linear_alltoall,Azure,Normal,8,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,7.009135,16
+526,os,Simulated,linear_alltoall,Azure,Normal,8,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,7.009135,16
+527,net,Simulated,linear_alltoall,Azure,Normal,8,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,7.00918,16
+528,os+net,Simulated,linear_alltoall,Azure,Normal,8,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,7.00918,16
+529,os,Simulated,linear_alltoall,Azure,Normal,8,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,7.009135,16
+530,net,Simulated,linear_alltoall,Azure,Normal,8,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,7.00918,16
+531,os+net,Simulated,linear_alltoall,Azure,Normal,8,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,7.00918,16
+532,none,Simulated,binomialtreebcast,Azure,Normal,8,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,12.195963,16384
+533,os,Simulated,binomialtreebcast,Azure,Normal,8,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,12.195963,16384
+534,net,Simulated,binomialtreebcast,Azure,Normal,8,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,12.533771,16384
+535,os+net,Simulated,binomialtreebcast,Azure,Normal,8,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,12.533771,16384
+536,os,Simulated,binomialtreebcast,Azure,Normal,8,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,12.195963,16384
+537,net,Simulated,binomialtreebcast,Azure,Normal,8,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,12.533771,16384
+538,os+net,Simulated,binomialtreebcast,Azure,Normal,8,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,12.050791,16384
+539,none,Simulated,nwaydissemination,Azure,Normal,8,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,44.963963,16384
+540,os,Simulated,nwaydissemination,Azure,Normal,8,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,44.963963,16384
+541,net,Simulated,nwaydissemination,Azure,Normal,8,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,45.153362,16384
+542,os+net,Simulated,nwaydissemination,Azure,Normal,8,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,48.770088,16384
+543,os,Simulated,nwaydissemination,Azure,Normal,8,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,46.032473,16384
+544,net,Simulated,nwaydissemination,Azure,Normal,8,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,45.153362,16384
+545,os+net,Simulated,nwaydissemination,Azure,Normal,8,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,47.788446,16384
+546,none,Simulated,pipelinedring,Azure,Normal,8,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,22.544712,16384
+547,os,Simulated,pipelinedring,Azure,Normal,8,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,26.113976,16384
+548,net,Simulated,pipelinedring,Azure,Normal,8,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,22.824303,16384
+549,os+net,Simulated,pipelinedring,Azure,Normal,8,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,22.824303,16384
+550,os,Simulated,pipelinedring,Azure,Normal,8,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,22.544712,16384
+551,net,Simulated,pipelinedring,Azure,Normal,8,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,23.617734,16384
+552,os+net,Simulated,pipelinedring,Azure,Normal,8,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,40.627395,16384
+553,none,Simulated,linear_alltoall,Azure,Normal,8,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,18.117247,16384
+554,os,Simulated,linear_alltoall,Azure,Normal,8,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,27.816544,16384
+555,net,Simulated,linear_alltoall,Azure,Normal,8,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,18.980022,16384
+556,os+net,Simulated,linear_alltoall,Azure,Normal,8,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,18.980022,16384
+557,os,Simulated,linear_alltoall,Azure,Normal,8,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,26.3779,16384
+558,net,Simulated,linear_alltoall,Azure,Normal,8,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,18.820339,16384
+559,os+net,Simulated,linear_alltoall,Azure,Normal,8,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,18.820339,16384
+560,none,Simulated,binomialtreebcast,Azure,Normal,8,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,4386.773115,16777216
+561,os,Simulated,binomialtreebcast,Azure,Normal,8,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,4386.773115,16777216
+562,net,Simulated,binomialtreebcast,Azure,Normal,8,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,4354.628656,16777216
+563,os+net,Simulated,binomialtreebcast,Azure,Normal,8,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,4434.291124,16777216
+564,os,Simulated,binomialtreebcast,Azure,Normal,8,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,4386.773115,16777216
+565,net,Simulated,binomialtreebcast,Azure,Normal,8,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,4434.291124,16777216
+566,os+net,Simulated,binomialtreebcast,Azure,Normal,8,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,4434.291124,16777216
+567,none,Simulated,nwaydissemination,Azure,Normal,8,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,37941.205115,16777216
+568,os,Simulated,nwaydissemination,Azure,Normal,8,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,38385.206795,16777216
+569,net,Simulated,nwaydissemination,Azure,Normal,8,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,38207.85162,16777216
+570,os+net,Simulated,nwaydissemination,Azure,Normal,8,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,38451.236372,16777216
+571,os,Simulated,nwaydissemination,Azure,Normal,8,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,39001.128855,16777216
+572,net,Simulated,nwaydissemination,Azure,Normal,8,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,38023.502864,16777216
+573,os+net,Simulated,nwaydissemination,Azure,Normal,8,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,38503.972536,16777216
+574,none,Simulated,pipelinedring,Azure,Normal,8,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,1480.737096,16777216
+575,os,Simulated,pipelinedring,Azure,Normal,8,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,1480.737096,16777216
+576,net,Simulated,pipelinedring,Azure,Normal,8,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,2029.665963,16777216
+577,os+net,Simulated,pipelinedring,Azure,Normal,8,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,2021.278042,16777216
+578,os,Simulated,pipelinedring,Azure,Normal,8,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,1480.737096,16777216
+579,net,Simulated,pipelinedring,Azure,Normal,8,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,2029.665963,16777216
+580,os+net,Simulated,pipelinedring,Azure,Normal,8,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,2029.665963,16777216
+581,none,Simulated,linear_alltoall,Azure,Normal,8,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,10235.803935,16777216
+582,os,Simulated,linear_alltoall,Azure,Normal,8,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,10235.803935,16777216
+583,net,Simulated,linear_alltoall,Azure,Normal,8,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,14478.996315,16777216
+584,os+net,Simulated,linear_alltoall,Azure,Normal,8,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,13120.608747,16777216
+585,os,Simulated,linear_alltoall,Azure,Normal,8,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,10236.839155,16777216
+586,net,Simulated,linear_alltoall,Azure,Normal,8,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,14478.996315,16777216
+587,os+net,Simulated,linear_alltoall,Azure,Normal,8,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,14478.996315,16777216
+588,none,Simulated,binomialtreebcast,Azure,Normal,16,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,10.56522,16
+589,os,Simulated,binomialtreebcast,Azure,Normal,16,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,10.56522,16
+590,net,Simulated,binomialtreebcast,Azure,Normal,16,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,9.997975,16
+591,os+net,Simulated,binomialtreebcast,Azure,Normal,16,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,9.997975,16
+592,os,Simulated,binomialtreebcast,Azure,Normal,16,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,10.56522,16
+593,net,Simulated,binomialtreebcast,Azure,Normal,16,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,9.997975,16
+594,os+net,Simulated,binomialtreebcast,Azure,Normal,16,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,10.865324,16
+595,none,Simulated,nwaydissemination,Azure,Normal,16,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,10.61322,16
+596,os,Simulated,nwaydissemination,Azure,Normal,16,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,10.61322,16
+597,net,Simulated,nwaydissemination,Azure,Normal,16,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,12.346145,16
+598,os+net,Simulated,nwaydissemination,Azure,Normal,16,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,20.280499,16
+599,os,Simulated,nwaydissemination,Azure,Normal,16,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,16.18746,16
+600,net,Simulated,nwaydissemination,Azure,Normal,16,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,12.346145,16
+601,os+net,Simulated,nwaydissemination,Azure,Normal,16,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,12.773028,16
+602,none,Simulated,pipelinedring,Azure,Normal,16,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,42.24,16
+603,os,Simulated,pipelinedring,Azure,Normal,16,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,42.24,16
+604,net,Simulated,pipelinedring,Azure,Normal,16,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,45.947252,16
+605,os+net,Simulated,pipelinedring,Azure,Normal,16,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,64.788324,16
+606,os,Simulated,pipelinedring,Azure,Normal,16,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,42.24,16
+607,net,Simulated,pipelinedring,Azure,Normal,16,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,49.29471,16
+608,os+net,Simulated,pipelinedring,Azure,Normal,16,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,49.29471,16
+609,none,Simulated,linear_alltoall,Azure,Normal,16,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,15.019575,16
+610,os,Simulated,linear_alltoall,Azure,Normal,16,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,30.990995,16
+611,net,Simulated,linear_alltoall,Azure,Normal,16,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,15.01965,16
+612,os+net,Simulated,linear_alltoall,Azure,Normal,16,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,186.294261,16
+613,os,Simulated,linear_alltoall,Azure,Normal,16,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,19.469418,16
+614,net,Simulated,linear_alltoall,Azure,Normal,16,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,15.019605,16
+615,os+net,Simulated,linear_alltoall,Azure,Normal,16,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,19.321205,16
+616,none,Simulated,binomialtreebcast,Azure,Normal,16,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,16.261284,16384
+617,os,Simulated,binomialtreebcast,Azure,Normal,16,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,16.261284,16384
+618,net,Simulated,binomialtreebcast,Azure,Normal,16,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,17.829736,16384
+619,os+net,Simulated,binomialtreebcast,Azure,Normal,16,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,19.204155,16384
+620,os,Simulated,binomialtreebcast,Azure,Normal,16,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,16.261284,16384
+621,net,Simulated,binomialtreebcast,Azure,Normal,16,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,17.829736,16384
+622,os+net,Simulated,binomialtreebcast,Azure,Normal,16,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,17.829736,16384
+623,none,Simulated,nwaydissemination,Azure,Normal,16,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,65.413284,16384
+624,os,Simulated,nwaydissemination,Azure,Normal,16,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,71.121752,16384
+625,net,Simulated,nwaydissemination,Azure,Normal,16,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,66.394946,16384
+626,os+net,Simulated,nwaydissemination,Azure,Normal,16,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,81.683981,16384
+627,os,Simulated,nwaydissemination,Azure,Normal,16,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,69.751324,16384
+628,net,Simulated,nwaydissemination,Azure,Normal,16,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,66.394946,16384
+629,os+net,Simulated,nwaydissemination,Azure,Normal,16,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,70.966346,16384
+630,none,Simulated,pipelinedring,Azure,Normal,16,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,43.664016,16384
+631,os,Simulated,pipelinedring,Azure,Normal,16,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,60.654854,16384
+632,net,Simulated,pipelinedring,Azure,Normal,16,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,57.634242,16384
+633,os+net,Simulated,pipelinedring,Azure,Normal,16,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,55.482904,16384
+634,os,Simulated,pipelinedring,Azure,Normal,16,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,43.664016,16384
+635,net,Simulated,pipelinedring,Azure,Normal,16,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,45.697534,16384
+636,os+net,Simulated,pipelinedring,Azure,Normal,16,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,54.703358,16384
+637,none,Simulated,linear_alltoall,Azure,Normal,16,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,37.519815,16384
+638,os,Simulated,linear_alltoall,Azure,Normal,16,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,47.175763,16384
+639,net,Simulated,linear_alltoall,Azure,Normal,16,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,38.514118,16384
+640,os+net,Simulated,linear_alltoall,Azure,Normal,16,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,44.564238,16384
+641,os,Simulated,linear_alltoall,Azure,Normal,16,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,43.583472,16384
+642,net,Simulated,linear_alltoall,Azure,Normal,16,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,38.524925,16384
+643,os+net,Simulated,linear_alltoall,Azure,Normal,16,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,41.608718,16384
+644,none,Simulated,binomialtreebcast,Azure,Normal,16,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,5849.03082,16777216
+645,os,Simulated,binomialtreebcast,Azure,Normal,16,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,5849.03082,16777216
+646,net,Simulated,binomialtreebcast,Azure,Normal,16,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,5962.592085,16777216
+647,os+net,Simulated,binomialtreebcast,Azure,Normal,16,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,5814.480508,16777216
+648,os,Simulated,binomialtreebcast,Azure,Normal,16,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,5849.03082,16777216
+649,net,Simulated,binomialtreebcast,Azure,Normal,16,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,5814.480508,16777216
+650,os+net,Simulated,binomialtreebcast,Azure,Normal,16,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,5814.480508,16777216
+651,none,Simulated,nwaydissemination,Azure,Normal,16,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,56180.67882,16777216
+652,os,Simulated,nwaydissemination,Azure,Normal,16,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,56962.956249,16777216
+653,net,Simulated,nwaydissemination,Azure,Normal,16,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,56397.642998,16777216
+654,os+net,Simulated,nwaydissemination,Azure,Normal,16,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,56975.378533,16777216
+655,os,Simulated,nwaydissemination,Azure,Normal,16,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,56997.395497,16777216
+656,net,Simulated,nwaydissemination,Azure,Normal,16,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,56397.642998,16777216
+657,os+net,Simulated,nwaydissemination,Azure,Normal,16,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,57608.662441,16777216
+658,none,Simulated,pipelinedring,Azure,Normal,16,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,1501.8564,16777216
+659,os,Simulated,pipelinedring,Azure,Normal,16,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,1503.262869,16777216
+660,net,Simulated,pipelinedring,Azure,Normal,16,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,1972.222453,16777216
+661,os+net,Simulated,pipelinedring,Azure,Normal,16,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,2051.469591,16777216
+662,os,Simulated,pipelinedring,Azure,Normal,16,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,1514.18053,16777216
+663,net,Simulated,pipelinedring,Azure,Normal,16,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,1870.5592,16777216
+664,os+net,Simulated,pipelinedring,Azure,Normal,16,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,1885.091706,16777216
+665,none,Simulated,linear_alltoall,Azure,Normal,16,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,21933.865575,16777216
+666,os,Simulated,linear_alltoall,Azure,Normal,16,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,21950.049892,16777216
+667,net,Simulated,linear_alltoall,Azure,Normal,16,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,31005.386562,16777216
+668,os+net,Simulated,linear_alltoall,Azure,Normal,16,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,30629.935915,16777216
+669,os,Simulated,linear_alltoall,Azure,Normal,16,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,21938.864133,16777216
+670,net,Simulated,linear_alltoall,Azure,Normal,16,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,30462.043677,16777216
+671,os+net,Simulated,linear_alltoall,Azure,Normal,16,../../cloud_noise_data/azure_F72s_v2_short/2022_03_28_17_31_51,30462.043677,16777216
+672,none,Simulated,binomialtreebcast,GCP,HPC,4,../../cloud_noise_data/gcp_c2-standard-60_cluster/2022_03_28_22_00_00,4136.5316,16777216
+673,os,Simulated,binomialtreebcast,GCP,HPC,4,../../cloud_noise_data/gcp_c2-standard-60_cluster/2022_03_28_22_00_00,4136.5316,16777216
+674,net,Simulated,binomialtreebcast,GCP,HPC,4,../../cloud_noise_data/gcp_c2-standard-60_cluster/2022_03_28_22_00_00,4305.45163,16777216
+675,os+net,Simulated,binomialtreebcast,GCP,HPC,4,../../cloud_noise_data/gcp_c2-standard-60_cluster/2022_03_28_22_00_00,4185.832636,16777216
+676,os,Simulated,binomialtreebcast,GCP,HPC,4,../../cloud_noise_data/gcp_c2-standard-60_cluster/2022_03_28_22_00_00,4136.5316,16777216
+677,net,Simulated,binomialtreebcast,GCP,HPC,4,../../cloud_noise_data/gcp_c2-standard-60_cluster/2022_03_28_22_00_00,4211.606101,16777216
+678,os+net,Simulated,binomialtreebcast,GCP,HPC,4,../../cloud_noise_data/gcp_c2-standard-60_cluster/2022_03_28_22_00_00,4055.274384,16777216
+679,none,Simulated,nwaydissemination,GCP,HPC,4,../../cloud_noise_data/gcp_c2-standard-60_cluster/2022_03_28_22_00_00,20913.7476,16777216
+680,os,Simulated,nwaydissemination,GCP,HPC,4,../../cloud_noise_data/gcp_c2-standard-60_cluster/2022_03_28_22_00_00,20961.90758,16777216
+681,net,Simulated,nwaydissemination,GCP,HPC,4,../../cloud_noise_data/gcp_c2-standard-60_cluster/2022_03_28_22_00_00,20887.372234,16777216
+682,os+net,Simulated,nwaydissemination,GCP,HPC,4,../../cloud_noise_data/gcp_c2-standard-60_cluster/2022_03_28_22_00_00,20929.512463,16777216
+683,os,Simulated,nwaydissemination,GCP,HPC,4,../../cloud_noise_data/gcp_c2-standard-60_cluster/2022_03_28_22_00_00,20995.76516,16777216
+684,net,Simulated,nwaydissemination,GCP,HPC,4,../../cloud_noise_data/gcp_c2-standard-60_cluster/2022_03_28_22_00_00,21099.073435,16777216
+685,os+net,Simulated,nwaydissemination,GCP,HPC,4,../../cloud_noise_data/gcp_c2-standard-60_cluster/2022_03_28_22_00_00,21469.279336,16777216
+686,none,Simulated,pipelinedring,GCP,HPC,4,../../cloud_noise_data/gcp_c2-standard-60_cluster/2022_03_28_22_00_00,2233.26544,16777216
+687,os,Simulated,pipelinedring,GCP,HPC,4,../../cloud_noise_data/gcp_c2-standard-60_cluster/2022_03_28_22_00_00,2233.26544,16777216
+688,net,Simulated,pipelinedring,GCP,HPC,4,../../cloud_noise_data/gcp_c2-standard-60_cluster/2022_03_28_22_00_00,2203.102388,16777216
+689,os+net,Simulated,pipelinedring,GCP,HPC,4,../../cloud_noise_data/gcp_c2-standard-60_cluster/2022_03_28_22_00_00,2794.502802,16777216
+690,os,Simulated,pipelinedring,GCP,HPC,4,../../cloud_noise_data/gcp_c2-standard-60_cluster/2022_03_28_22_00_00,2233.26544,16777216
+691,net,Simulated,pipelinedring,GCP,HPC,4,../../cloud_noise_data/gcp_c2-standard-60_cluster/2022_03_28_22_00_00,2291.434492,16777216
+692,os+net,Simulated,pipelinedring,GCP,HPC,4,../../cloud_noise_data/gcp_c2-standard-60_cluster/2022_03_28_22_00_00,2287.69205,16777216
+693,none,Simulated,linear_alltoall,GCP,HPC,4,../../cloud_noise_data/gcp_c2-standard-60_cluster/2022_03_28_22_00_00,6204.7974,16777216
+694,os,Simulated,linear_alltoall,GCP,HPC,4,../../cloud_noise_data/gcp_c2-standard-60_cluster/2022_03_28_22_00_00,6204.7974,16777216
+695,net,Simulated,linear_alltoall,GCP,HPC,4,../../cloud_noise_data/gcp_c2-standard-60_cluster/2022_03_28_22_00_00,8324.194461,16777216
+696,os+net,Simulated,linear_alltoall,GCP,HPC,4,../../cloud_noise_data/gcp_c2-standard-60_cluster/2022_03_28_22_00_00,6234.269595,16777216
+697,os,Simulated,linear_alltoall,GCP,HPC,4,../../cloud_noise_data/gcp_c2-standard-60_cluster/2022_03_28_22_00_00,6204.7974,16777216
+698,net,Simulated,linear_alltoall,GCP,HPC,4,../../cloud_noise_data/gcp_c2-standard-60_cluster/2022_03_28_22_00_00,6128.317872,16777216
+699,os+net,Simulated,linear_alltoall,GCP,HPC,4,../../cloud_noise_data/gcp_c2-standard-60_cluster/2022_03_28_22_00_00,8934.427323,16777216
+700,none,Simulated,binomialtreebcast,GCP,HPC,8,../../cloud_noise_data/gcp_c2-standard-60_cluster/2022_03_28_22_00_00,6204.7974,16777216
+701,os,Simulated,binomialtreebcast,GCP,HPC,8,../../cloud_noise_data/gcp_c2-standard-60_cluster/2022_03_28_22_00_00,6204.7974,16777216
+702,net,Simulated,binomialtreebcast,GCP,HPC,8,../../cloud_noise_data/gcp_c2-standard-60_cluster/2022_03_28_22_00_00,6699.319878,16777216
+703,os+net,Simulated,binomialtreebcast,GCP,HPC,8,../../cloud_noise_data/gcp_c2-standard-60_cluster/2022_03_28_22_00_00,6197.159859,16777216
+704,os,Simulated,binomialtreebcast,GCP,HPC,8,../../cloud_noise_data/gcp_c2-standard-60_cluster/2022_03_28_22_00_00,6204.7974,16777216
+705,net,Simulated,binomialtreebcast,GCP,HPC,8,../../cloud_noise_data/gcp_c2-standard-60_cluster/2022_03_28_22_00_00,6234.330002,16777216
+706,os+net,Simulated,binomialtreebcast,GCP,HPC,8,../../cloud_noise_data/gcp_c2-standard-60_cluster/2022_03_28_22_00_00,6257.775505,16777216
+707,none,Simulated,nwaydissemination,GCP,HPC,8,../../cloud_noise_data/gcp_c2-standard-60_cluster/2022_03_28_22_00_00,39759.2294,16777216
+708,os,Simulated,nwaydissemination,GCP,HPC,8,../../cloud_noise_data/gcp_c2-standard-60_cluster/2022_03_28_22_00_00,39870.56973,16777216
+709,net,Simulated,nwaydissemination,GCP,HPC,8,../../cloud_noise_data/gcp_c2-standard-60_cluster/2022_03_28_22_00_00,39911.389816,16777216
+710,os+net,Simulated,nwaydissemination,GCP,HPC,8,../../cloud_noise_data/gcp_c2-standard-60_cluster/2022_03_28_22_00_00,40822.611185,16777216
+711,os,Simulated,nwaydissemination,GCP,HPC,8,../../cloud_noise_data/gcp_c2-standard-60_cluster/2022_03_28_22_00_00,39873.43161,16777216
+712,net,Simulated,nwaydissemination,GCP,HPC,8,../../cloud_noise_data/gcp_c2-standard-60_cluster/2022_03_28_22_00_00,40100.699269,16777216
+713,os+net,Simulated,nwaydissemination,GCP,HPC,8,../../cloud_noise_data/gcp_c2-standard-60_cluster/2022_03_28_22_00_00,40176.80914,16777216
+714,none,Simulated,pipelinedring,GCP,HPC,8,../../cloud_noise_data/gcp_c2-standard-60_cluster/2022_03_28_22_00_00,2453.26496,16777216
+715,os,Simulated,pipelinedring,GCP,HPC,8,../../cloud_noise_data/gcp_c2-standard-60_cluster/2022_03_28_22_00_00,2464.2325,16777216
+716,net,Simulated,pipelinedring,GCP,HPC,8,../../cloud_noise_data/gcp_c2-standard-60_cluster/2022_03_28_22_00_00,2767.649028,16777216
+717,os+net,Simulated,pipelinedring,GCP,HPC,8,../../cloud_noise_data/gcp_c2-standard-60_cluster/2022_03_28_22_00_00,2505.365962,16777216
+718,os,Simulated,pipelinedring,GCP,HPC,8,../../cloud_noise_data/gcp_c2-standard-60_cluster/2022_03_28_22_00_00,2454.756054,16777216
+719,net,Simulated,pipelinedring,GCP,HPC,8,../../cloud_noise_data/gcp_c2-standard-60_cluster/2022_03_28_22_00_00,2507.079297,16777216
+720,os+net,Simulated,pipelinedring,GCP,HPC,8,../../cloud_noise_data/gcp_c2-standard-60_cluster/2022_03_28_22_00_00,2503.85862,16777216
+721,none,Simulated,linear_alltoall,GCP,HPC,8,../../cloud_noise_data/gcp_c2-standard-60_cluster/2022_03_28_22_00_00,14477.8606,16777216
+722,os,Simulated,linear_alltoall,GCP,HPC,8,../../cloud_noise_data/gcp_c2-standard-60_cluster/2022_03_28_22_00_00,14477.8606,16777216
+723,net,Simulated,linear_alltoall,GCP,HPC,8,../../cloud_noise_data/gcp_c2-standard-60_cluster/2022_03_28_22_00_00,16836.701985,16777216
+724,os+net,Simulated,linear_alltoall,GCP,HPC,8,../../cloud_noise_data/gcp_c2-standard-60_cluster/2022_03_28_22_00_00,18982.829706,16777216
+725,os,Simulated,linear_alltoall,GCP,HPC,8,../../cloud_noise_data/gcp_c2-standard-60_cluster/2022_03_28_22_00_00,14477.8606,16777216
+726,net,Simulated,linear_alltoall,GCP,HPC,8,../../cloud_noise_data/gcp_c2-standard-60_cluster/2022_03_28_22_00_00,20636.500187,16777216
+727,os+net,Simulated,linear_alltoall,GCP,HPC,8,../../cloud_noise_data/gcp_c2-standard-60_cluster/2022_03_28_22_00_00,19200.780987,16777216
+728,none,Simulated,binomialtreebcast,GCP,HPC,16,../../cloud_noise_data/gcp_c2-standard-60_cluster/2022_03_28_22_00_00,8273.0632,16777216
+729,os,Simulated,binomialtreebcast,GCP,HPC,16,../../cloud_noise_data/gcp_c2-standard-60_cluster/2022_03_28_22_00_00,8273.0632,16777216
+730,net,Simulated,binomialtreebcast,GCP,HPC,16,../../cloud_noise_data/gcp_c2-standard-60_cluster/2022_03_28_22_00_00,9134.153663,16777216
+731,os+net,Simulated,binomialtreebcast,GCP,HPC,16,../../cloud_noise_data/gcp_c2-standard-60_cluster/2022_03_28_22_00_00,8135.565867,16777216
+732,os,Simulated,binomialtreebcast,GCP,HPC,16,../../cloud_noise_data/gcp_c2-standard-60_cluster/2022_03_28_22_00_00,8273.0632,16777216
+733,net,Simulated,binomialtreebcast,GCP,HPC,16,../../cloud_noise_data/gcp_c2-standard-60_cluster/2022_03_28_22_00_00,8548.23889,16777216
+734,os+net,Simulated,binomialtreebcast,GCP,HPC,16,../../cloud_noise_data/gcp_c2-standard-60_cluster/2022_03_28_22_00_00,8759.392051,16777216
+735,none,Simulated,nwaydissemination,GCP,HPC,16,../../cloud_noise_data/gcp_c2-standard-60_cluster/2022_03_28_22_00_00,58604.7112,16777216
+736,os,Simulated,nwaydissemination,GCP,HPC,16,../../cloud_noise_data/gcp_c2-standard-60_cluster/2022_03_28_22_00_00,58804.50482,16777216
+737,net,Simulated,nwaydissemination,GCP,HPC,16,../../cloud_noise_data/gcp_c2-standard-60_cluster/2022_03_28_22_00_00,59160.282091,16777216
+738,os+net,Simulated,nwaydissemination,GCP,HPC,16,../../cloud_noise_data/gcp_c2-standard-60_cluster/2022_03_28_22_00_00,59163.378728,16777216
+739,os,Simulated,nwaydissemination,GCP,HPC,16,../../cloud_noise_data/gcp_c2-standard-60_cluster/2022_03_28_22_00_00,58861.79532,16777216
+740,net,Simulated,nwaydissemination,GCP,HPC,16,../../cloud_noise_data/gcp_c2-standard-60_cluster/2022_03_28_22_00_00,59230.612692,16777216
+741,os+net,Simulated,nwaydissemination,GCP,HPC,16,../../cloud_noise_data/gcp_c2-standard-60_cluster/2022_03_28_22_00_00,59450.620622,16777216
+742,none,Simulated,pipelinedring,GCP,HPC,16,../../cloud_noise_data/gcp_c2-standard-60_cluster/2022_03_28_22_00_00,2893.264,16777216
+743,os,Simulated,pipelinedring,GCP,HPC,16,../../cloud_noise_data/gcp_c2-standard-60_cluster/2022_03_28_22_00_00,2893.264,16777216
+744,net,Simulated,pipelinedring,GCP,HPC,16,../../cloud_noise_data/gcp_c2-standard-60_cluster/2022_03_28_22_00_00,2960.905878,16777216
+745,os+net,Simulated,pipelinedring,GCP,HPC,16,../../cloud_noise_data/gcp_c2-standard-60_cluster/2022_03_28_22_00_00,3048.417534,16777216
+746,os,Simulated,pipelinedring,GCP,HPC,16,../../cloud_noise_data/gcp_c2-standard-60_cluster/2022_03_28_22_00_00,2893.582077,16777216
+747,net,Simulated,pipelinedring,GCP,HPC,16,../../cloud_noise_data/gcp_c2-standard-60_cluster/2022_03_28_22_00_00,2979.88807,16777216
+748,os+net,Simulated,pipelinedring,GCP,HPC,16,../../cloud_noise_data/gcp_c2-standard-60_cluster/2022_03_28_22_00_00,3018.81742,16777216
+749,none,Simulated,linear_alltoall,GCP,HPC,16,../../cloud_noise_data/gcp_c2-standard-60_cluster/2022_03_28_22_00_00,31023.987,16777216
+750,os,Simulated,linear_alltoall,GCP,HPC,16,../../cloud_noise_data/gcp_c2-standard-60_cluster/2022_03_28_22_00_00,31028.545096,16777216
+751,net,Simulated,linear_alltoall,GCP,HPC,16,../../cloud_noise_data/gcp_c2-standard-60_cluster/2022_03_28_22_00_00,40568.458396,16777216
+752,os+net,Simulated,linear_alltoall,GCP,HPC,16,../../cloud_noise_data/gcp_c2-standard-60_cluster/2022_03_28_22_00_00,43872.112792,16777216
+753,os,Simulated,linear_alltoall,GCP,HPC,16,../../cloud_noise_data/gcp_c2-standard-60_cluster/2022_03_28_22_00_00,31023.987,16777216
+754,net,Simulated,linear_alltoall,GCP,HPC,16,../../cloud_noise_data/gcp_c2-standard-60_cluster/2022_03_28_22_00_00,41074.228045,16777216
+755,os+net,Simulated,linear_alltoall,GCP,HPC,16,../../cloud_noise_data/gcp_c2-standard-60_cluster/2022_03_28_22_00_00,41894.318926,16777216
+756,none,Simulated,binomialtreebcast,GCP,Normal,4,../../cloud_noise_data/gcp_c2-standard-60_colloc_notier-nogvnic/2022_03_31_09_52_47,4136.5316,16777216
+757,os,Simulated,binomialtreebcast,GCP,Normal,4,../../cloud_noise_data/gcp_c2-standard-60_colloc_notier-nogvnic/2022_03_31_09_52_47,4136.5316,16777216
+758,net,Simulated,binomialtreebcast,GCP,Normal,4,../../cloud_noise_data/gcp_c2-standard-60_colloc_notier-nogvnic/2022_03_31_09_52_47,4301.218827,16777216
+759,os+net,Simulated,binomialtreebcast,GCP,Normal,4,../../cloud_noise_data/gcp_c2-standard-60_colloc_notier-nogvnic/2022_03_31_09_52_47,4085.2981,16777216
+760,os,Simulated,binomialtreebcast,GCP,Normal,4,../../cloud_noise_data/gcp_c2-standard-60_colloc_notier-nogvnic/2022_03_31_09_52_47,4136.5316,16777216
+761,net,Simulated,binomialtreebcast,GCP,Normal,4,../../cloud_noise_data/gcp_c2-standard-60_colloc_notier-nogvnic/2022_03_31_09_52_47,3956.339081,16777216
+762,os+net,Simulated,binomialtreebcast,GCP,Normal,4,../../cloud_noise_data/gcp_c2-standard-60_colloc_notier-nogvnic/2022_03_31_09_52_47,4471.193018,16777216
+763,none,Simulated,nwaydissemination,GCP,Normal,4,../../cloud_noise_data/gcp_c2-standard-60_colloc_notier-nogvnic/2022_03_31_09_52_47,20913.7476,16777216
+764,os,Simulated,nwaydissemination,GCP,Normal,4,../../cloud_noise_data/gcp_c2-standard-60_colloc_notier-nogvnic/2022_03_31_09_52_47,21023.41949,16777216
+765,net,Simulated,nwaydissemination,GCP,Normal,4,../../cloud_noise_data/gcp_c2-standard-60_colloc_notier-nogvnic/2022_03_31_09_52_47,21130.968514,16777216
+766,os+net,Simulated,nwaydissemination,GCP,Normal,4,../../cloud_noise_data/gcp_c2-standard-60_colloc_notier-nogvnic/2022_03_31_09_52_47,21160.848068,16777216
+767,os,Simulated,nwaydissemination,GCP,Normal,4,../../cloud_noise_data/gcp_c2-standard-60_colloc_notier-nogvnic/2022_03_31_09_52_47,20987.41815,16777216
+768,net,Simulated,nwaydissemination,GCP,Normal,4,../../cloud_noise_data/gcp_c2-standard-60_colloc_notier-nogvnic/2022_03_31_09_52_47,21000.681048,16777216
+769,os+net,Simulated,nwaydissemination,GCP,Normal,4,../../cloud_noise_data/gcp_c2-standard-60_colloc_notier-nogvnic/2022_03_31_09_52_47,21169.880861,16777216
+770,none,Simulated,pipelinedring,GCP,Normal,4,../../cloud_noise_data/gcp_c2-standard-60_colloc_notier-nogvnic/2022_03_31_09_52_47,2233.26544,16777216
+771,os,Simulated,pipelinedring,GCP,Normal,4,../../cloud_noise_data/gcp_c2-standard-60_colloc_notier-nogvnic/2022_03_31_09_52_47,2233.26544,16777216
+772,net,Simulated,pipelinedring,GCP,Normal,4,../../cloud_noise_data/gcp_c2-standard-60_colloc_notier-nogvnic/2022_03_31_09_52_47,2255.182357,16777216
+773,os+net,Simulated,pipelinedring,GCP,Normal,4,../../cloud_noise_data/gcp_c2-standard-60_colloc_notier-nogvnic/2022_03_31_09_52_47,2748.787149,16777216
+774,os,Simulated,pipelinedring,GCP,Normal,4,../../cloud_noise_data/gcp_c2-standard-60_colloc_notier-nogvnic/2022_03_31_09_52_47,2368.006794,16777216
+775,net,Simulated,pipelinedring,GCP,Normal,4,../../cloud_noise_data/gcp_c2-standard-60_colloc_notier-nogvnic/2022_03_31_09_52_47,2336.648339,16777216
+776,os+net,Simulated,pipelinedring,GCP,Normal,4,../../cloud_noise_data/gcp_c2-standard-60_colloc_notier-nogvnic/2022_03_31_09_52_47,2328.121495,16777216
+777,none,Simulated,linear_alltoall,GCP,Normal,4,../../cloud_noise_data/gcp_c2-standard-60_colloc_notier-nogvnic/2022_03_31_09_52_47,6204.7974,16777216
+778,os,Simulated,linear_alltoall,GCP,Normal,4,../../cloud_noise_data/gcp_c2-standard-60_colloc_notier-nogvnic/2022_03_31_09_52_47,6204.7974,16777216
+779,net,Simulated,linear_alltoall,GCP,Normal,4,../../cloud_noise_data/gcp_c2-standard-60_colloc_notier-nogvnic/2022_03_31_09_52_47,8670.439082,16777216
+780,os+net,Simulated,linear_alltoall,GCP,Normal,4,../../cloud_noise_data/gcp_c2-standard-60_colloc_notier-nogvnic/2022_03_31_09_52_47,8558.79345,16777216
+781,os,Simulated,linear_alltoall,GCP,Normal,4,../../cloud_noise_data/gcp_c2-standard-60_colloc_notier-nogvnic/2022_03_31_09_52_47,6204.7974,16777216
+782,net,Simulated,linear_alltoall,GCP,Normal,4,../../cloud_noise_data/gcp_c2-standard-60_colloc_notier-nogvnic/2022_03_31_09_52_47,7929.620841,16777216
+783,os+net,Simulated,linear_alltoall,GCP,Normal,4,../../cloud_noise_data/gcp_c2-standard-60_colloc_notier-nogvnic/2022_03_31_09_52_47,6514.597595,16777216
+784,none,Simulated,binomialtreebcast,GCP,Normal,8,../../cloud_noise_data/gcp_c2-standard-60_colloc_notier-nogvnic/2022_03_31_09_52_47,6204.7974,16777216
+785,os,Simulated,binomialtreebcast,GCP,Normal,8,../../cloud_noise_data/gcp_c2-standard-60_colloc_notier-nogvnic/2022_03_31_09_52_47,6204.7974,16777216
+786,net,Simulated,binomialtreebcast,GCP,Normal,8,../../cloud_noise_data/gcp_c2-standard-60_colloc_notier-nogvnic/2022_03_31_09_52_47,6491.960333,16777216
+787,os+net,Simulated,binomialtreebcast,GCP,Normal,8,../../cloud_noise_data/gcp_c2-standard-60_colloc_notier-nogvnic/2022_03_31_09_52_47,6518.072994,16777216
+788,os,Simulated,binomialtreebcast,GCP,Normal,8,../../cloud_noise_data/gcp_c2-standard-60_colloc_notier-nogvnic/2022_03_31_09_52_47,6204.7974,16777216
+789,net,Simulated,binomialtreebcast,GCP,Normal,8,../../cloud_noise_data/gcp_c2-standard-60_colloc_notier-nogvnic/2022_03_31_09_52_47,6670.815116,16777216
+790,os+net,Simulated,binomialtreebcast,GCP,Normal,8,../../cloud_noise_data/gcp_c2-standard-60_colloc_notier-nogvnic/2022_03_31_09_52_47,6568.385666,16777216
+791,none,Simulated,nwaydissemination,GCP,Normal,8,../../cloud_noise_data/gcp_c2-standard-60_colloc_notier-nogvnic/2022_03_31_09_52_47,39759.2294,16777216
+792,os,Simulated,nwaydissemination,GCP,Normal,8,../../cloud_noise_data/gcp_c2-standard-60_colloc_notier-nogvnic/2022_03_31_09_52_47,39984.11505,16777216
+793,net,Simulated,nwaydissemination,GCP,Normal,8,../../cloud_noise_data/gcp_c2-standard-60_colloc_notier-nogvnic/2022_03_31_09_52_47,40101.963707,16777216
+794,os+net,Simulated,nwaydissemination,GCP,Normal,8,../../cloud_noise_data/gcp_c2-standard-60_colloc_notier-nogvnic/2022_03_31_09_52_47,40296.851773,16777216
+795,os,Simulated,nwaydissemination,GCP,Normal,8,../../cloud_noise_data/gcp_c2-standard-60_colloc_notier-nogvnic/2022_03_31_09_52_47,39905.85655,16777216
+796,net,Simulated,nwaydissemination,GCP,Normal,8,../../cloud_noise_data/gcp_c2-standard-60_colloc_notier-nogvnic/2022_03_31_09_52_47,40465.06838,16777216
+797,os+net,Simulated,nwaydissemination,GCP,Normal,8,../../cloud_noise_data/gcp_c2-standard-60_colloc_notier-nogvnic/2022_03_31_09_52_47,40297.36102,16777216
+798,none,Simulated,pipelinedring,GCP,Normal,8,../../cloud_noise_data/gcp_c2-standard-60_colloc_notier-nogvnic/2022_03_31_09_52_47,2453.26496,16777216
+799,os,Simulated,pipelinedring,GCP,Normal,8,../../cloud_noise_data/gcp_c2-standard-60_colloc_notier-nogvnic/2022_03_31_09_52_47,2453.26496,16777216
+800,net,Simulated,pipelinedring,GCP,Normal,8,../../cloud_noise_data/gcp_c2-standard-60_colloc_notier-nogvnic/2022_03_31_09_52_47,2486.952224,16777216
+801,os+net,Simulated,pipelinedring,GCP,Normal,8,../../cloud_noise_data/gcp_c2-standard-60_colloc_notier-nogvnic/2022_03_31_09_52_47,2548.299533,16777216
+802,os,Simulated,pipelinedring,GCP,Normal,8,../../cloud_noise_data/gcp_c2-standard-60_colloc_notier-nogvnic/2022_03_31_09_52_47,2459.696368,16777216
+803,net,Simulated,pipelinedring,GCP,Normal,8,../../cloud_noise_data/gcp_c2-standard-60_colloc_notier-nogvnic/2022_03_31_09_52_47,2747.253989,16777216
+804,os+net,Simulated,pipelinedring,GCP,Normal,8,../../cloud_noise_data/gcp_c2-standard-60_colloc_notier-nogvnic/2022_03_31_09_52_47,2791.910004,16777216
+805,none,Simulated,linear_alltoall,GCP,Normal,8,../../cloud_noise_data/gcp_c2-standard-60_colloc_notier-nogvnic/2022_03_31_09_52_47,14477.8606,16777216
+806,os,Simulated,linear_alltoall,GCP,Normal,8,../../cloud_noise_data/gcp_c2-standard-60_colloc_notier-nogvnic/2022_03_31_09_52_47,14477.8606,16777216
+807,net,Simulated,linear_alltoall,GCP,Normal,8,../../cloud_noise_data/gcp_c2-standard-60_colloc_notier-nogvnic/2022_03_31_09_52_47,18040.410613,16777216
+808,os+net,Simulated,linear_alltoall,GCP,Normal,8,../../cloud_noise_data/gcp_c2-standard-60_colloc_notier-nogvnic/2022_03_31_09_52_47,18679.997152,16777216
+809,os,Simulated,linear_alltoall,GCP,Normal,8,../../cloud_noise_data/gcp_c2-standard-60_colloc_notier-nogvnic/2022_03_31_09_52_47,14477.8606,16777216
+810,net,Simulated,linear_alltoall,GCP,Normal,8,../../cloud_noise_data/gcp_c2-standard-60_colloc_notier-nogvnic/2022_03_31_09_52_47,19599.705239,16777216
+811,os+net,Simulated,linear_alltoall,GCP,Normal,8,../../cloud_noise_data/gcp_c2-standard-60_colloc_notier-nogvnic/2022_03_31_09_52_47,18650.268809,16777216
+812,none,Simulated,binomialtreebcast,GCP,Normal,16,../../cloud_noise_data/gcp_c2-standard-60_colloc_notier-nogvnic/2022_03_31_09_52_47,8273.0632,16777216
+813,os,Simulated,binomialtreebcast,GCP,Normal,16,../../cloud_noise_data/gcp_c2-standard-60_colloc_notier-nogvnic/2022_03_31_09_52_47,8273.0632,16777216
+814,net,Simulated,binomialtreebcast,GCP,Normal,16,../../cloud_noise_data/gcp_c2-standard-60_colloc_notier-nogvnic/2022_03_31_09_52_47,8244.912527,16777216
+815,os+net,Simulated,binomialtreebcast,GCP,Normal,16,../../cloud_noise_data/gcp_c2-standard-60_colloc_notier-nogvnic/2022_03_31_09_52_47,8449.714506,16777216
+816,os,Simulated,binomialtreebcast,GCP,Normal,16,../../cloud_noise_data/gcp_c2-standard-60_colloc_notier-nogvnic/2022_03_31_09_52_47,8273.0632,16777216
+817,net,Simulated,binomialtreebcast,GCP,Normal,16,../../cloud_noise_data/gcp_c2-standard-60_colloc_notier-nogvnic/2022_03_31_09_52_47,8082.380105,16777216
+818,os+net,Simulated,binomialtreebcast,GCP,Normal,16,../../cloud_noise_data/gcp_c2-standard-60_colloc_notier-nogvnic/2022_03_31_09_52_47,8546.719791,16777216
+819,none,Simulated,nwaydissemination,GCP,Normal,16,../../cloud_noise_data/gcp_c2-standard-60_colloc_notier-nogvnic/2022_03_31_09_52_47,58604.7112,16777216
+820,os,Simulated,nwaydissemination,GCP,Normal,16,../../cloud_noise_data/gcp_c2-standard-60_colloc_notier-nogvnic/2022_03_31_09_52_47,58819.76027,16777216
+821,net,Simulated,nwaydissemination,GCP,Normal,16,../../cloud_noise_data/gcp_c2-standard-60_colloc_notier-nogvnic/2022_03_31_09_52_47,59275.142496,16777216
+822,os+net,Simulated,nwaydissemination,GCP,Normal,16,../../cloud_noise_data/gcp_c2-standard-60_colloc_notier-nogvnic/2022_03_31_09_52_47,59393.465812,16777216
+823,os,Simulated,nwaydissemination,GCP,Normal,16,../../cloud_noise_data/gcp_c2-standard-60_colloc_notier-nogvnic/2022_03_31_09_52_47,58988.62709,16777216
+824,net,Simulated,nwaydissemination,GCP,Normal,16,../../cloud_noise_data/gcp_c2-standard-60_colloc_notier-nogvnic/2022_03_31_09_52_47,59375.57092,16777216
+825,os+net,Simulated,nwaydissemination,GCP,Normal,16,../../cloud_noise_data/gcp_c2-standard-60_colloc_notier-nogvnic/2022_03_31_09_52_47,59491.273906,16777216
+826,none,Simulated,pipelinedring,GCP,Normal,16,../../cloud_noise_data/gcp_c2-standard-60_colloc_notier-nogvnic/2022_03_31_09_52_47,2893.264,16777216
+827,os,Simulated,pipelinedring,GCP,Normal,16,../../cloud_noise_data/gcp_c2-standard-60_colloc_notier-nogvnic/2022_03_31_09_52_47,2901.3704,16777216
+828,net,Simulated,pipelinedring,GCP,Normal,16,../../cloud_noise_data/gcp_c2-standard-60_colloc_notier-nogvnic/2022_03_31_09_52_47,2973.410802,16777216
+829,os+net,Simulated,pipelinedring,GCP,Normal,16,../../cloud_noise_data/gcp_c2-standard-60_colloc_notier-nogvnic/2022_03_31_09_52_47,2937.043076,16777216
+830,os,Simulated,pipelinedring,GCP,Normal,16,../../cloud_noise_data/gcp_c2-standard-60_colloc_notier-nogvnic/2022_03_31_09_52_47,2893.264,16777216
+831,net,Simulated,pipelinedring,GCP,Normal,16,../../cloud_noise_data/gcp_c2-standard-60_colloc_notier-nogvnic/2022_03_31_09_52_47,2920.71486,16777216
+832,os+net,Simulated,pipelinedring,GCP,Normal,16,../../cloud_noise_data/gcp_c2-standard-60_colloc_notier-nogvnic/2022_03_31_09_52_47,3186.586941,16777216
+833,none,Simulated,linear_alltoall,GCP,Normal,16,../../cloud_noise_data/gcp_c2-standard-60_colloc_notier-nogvnic/2022_03_31_09_52_47,31023.987,16777216
+834,os,Simulated,linear_alltoall,GCP,Normal,16,../../cloud_noise_data/gcp_c2-standard-60_colloc_notier-nogvnic/2022_03_31_09_52_47,31041.769609,16777216
+835,net,Simulated,linear_alltoall,GCP,Normal,16,../../cloud_noise_data/gcp_c2-standard-60_colloc_notier-nogvnic/2022_03_31_09_52_47,43083.250389,16777216
+836,os+net,Simulated,linear_alltoall,GCP,Normal,16,../../cloud_noise_data/gcp_c2-standard-60_colloc_notier-nogvnic/2022_03_31_09_52_47,42665.648517,16777216
+837,os,Simulated,linear_alltoall,GCP,Normal,16,../../cloud_noise_data/gcp_c2-standard-60_colloc_notier-nogvnic/2022_03_31_09_52_47,31023.987,16777216
+838,net,Simulated,linear_alltoall,GCP,Normal,16,../../cloud_noise_data/gcp_c2-standard-60_colloc_notier-nogvnic/2022_03_31_09_52_47,43943.510159,16777216
+839,os+net,Simulated,linear_alltoall,GCP,Normal,16,../../cloud_noise_data/gcp_c2-standard-60_colloc_notier-nogvnic/2022_03_31_09_52_47,43068.000805,16777216
+840,none,Simulated,binomialtreebcast,Daint,HPC (Metal),4,../../cloud_noise_data/daint_mc_rush_hour_same_slot_default/2022_03_30_18_14_05,3700.7873,16777216
+841,os,Simulated,binomialtreebcast,Daint,HPC (Metal),4,../../cloud_noise_data/daint_mc_rush_hour_same_slot_default/2022_03_30_18_14_05,3700.7873,16777216
+842,net,Simulated,binomialtreebcast,Daint,HPC (Metal),4,../../cloud_noise_data/daint_mc_rush_hour_same_slot_default/2022_03_30_18_14_05,3679.672406,16777216
+843,os+net,Simulated,binomialtreebcast,Daint,HPC (Metal),4,../../cloud_noise_data/daint_mc_rush_hour_same_slot_default/2022_03_30_18_14_05,3679.672406,16777216
+844,os,Simulated,binomialtreebcast,Daint,HPC (Metal),4,../../cloud_noise_data/daint_mc_rush_hour_same_slot_default/2022_03_30_18_14_05,3700.7873,16777216
+845,net,Simulated,binomialtreebcast,Daint,HPC (Metal),4,../../cloud_noise_data/daint_mc_rush_hour_same_slot_default/2022_03_30_18_14_05,3730.58383,16777216
+846,os+net,Simulated,binomialtreebcast,Daint,HPC (Metal),4,../../cloud_noise_data/daint_mc_rush_hour_same_slot_default/2022_03_30_18_14_05,3730.58383,16777216
+847,none,Simulated,nwaydissemination,Daint,HPC (Metal),4,../../cloud_noise_data/daint_mc_rush_hour_same_slot_default/2022_03_30_18_14_05,20478.0033,16777216
+848,os,Simulated,nwaydissemination,Daint,HPC (Metal),4,../../cloud_noise_data/daint_mc_rush_hour_same_slot_default/2022_03_30_18_14_05,20626.52405,16777216
+849,net,Simulated,nwaydissemination,Daint,HPC (Metal),4,../../cloud_noise_data/daint_mc_rush_hour_same_slot_default/2022_03_30_18_14_05,20510.462151,16777216
+850,os+net,Simulated,nwaydissemination,Daint,HPC (Metal),4,../../cloud_noise_data/daint_mc_rush_hour_same_slot_default/2022_03_30_18_14_05,20594.786824,16777216
+851,os,Simulated,nwaydissemination,Daint,HPC (Metal),4,../../cloud_noise_data/daint_mc_rush_hour_same_slot_default/2022_03_30_18_14_05,20651.32034,16777216
+852,net,Simulated,nwaydissemination,Daint,HPC (Metal),4,../../cloud_noise_data/daint_mc_rush_hour_same_slot_default/2022_03_30_18_14_05,20493.684936,16777216
+853,os+net,Simulated,nwaydissemination,Daint,HPC (Metal),4,../../cloud_noise_data/daint_mc_rush_hour_same_slot_default/2022_03_30_18_14_05,20572.220195,16777216
+854,none,Simulated,pipelinedring,Daint,HPC (Metal),4,../../cloud_noise_data/daint_mc_rush_hour_same_slot_default/2022_03_30_18_14_05,1865.09332,16777216
+855,os,Simulated,pipelinedring,Daint,HPC (Metal),4,../../cloud_noise_data/daint_mc_rush_hour_same_slot_default/2022_03_30_18_14_05,1865.09332,16777216
+856,net,Simulated,pipelinedring,Daint,HPC (Metal),4,../../cloud_noise_data/daint_mc_rush_hour_same_slot_default/2022_03_30_18_14_05,1855.438815,16777216
+857,os+net,Simulated,pipelinedring,Daint,HPC (Metal),4,../../cloud_noise_data/daint_mc_rush_hour_same_slot_default/2022_03_30_18_14_05,1855.438815,16777216
+858,os,Simulated,pipelinedring,Daint,HPC (Metal),4,../../cloud_noise_data/daint_mc_rush_hour_same_slot_default/2022_03_30_18_14_05,1865.09332,16777216
+859,net,Simulated,pipelinedring,Daint,HPC (Metal),4,../../cloud_noise_data/daint_mc_rush_hour_same_slot_default/2022_03_30_18_14_05,1855.438815,16777216
+860,os+net,Simulated,pipelinedring,Daint,HPC (Metal),4,../../cloud_noise_data/daint_mc_rush_hour_same_slot_default/2022_03_30_18_14_05,1855.438815,16777216
+861,none,Simulated,linear_alltoall,Daint,HPC (Metal),4,../../cloud_noise_data/daint_mc_rush_hour_same_slot_default/2022_03_30_18_14_05,5551.18095,16777216
+862,os,Simulated,linear_alltoall,Daint,HPC (Metal),4,../../cloud_noise_data/daint_mc_rush_hour_same_slot_default/2022_03_30_18_14_05,5551.18095,16777216
+863,net,Simulated,linear_alltoall,Daint,HPC (Metal),4,../../cloud_noise_data/daint_mc_rush_hour_same_slot_default/2022_03_30_18_14_05,7357.01869,16777216
+864,os+net,Simulated,linear_alltoall,Daint,HPC (Metal),4,../../cloud_noise_data/daint_mc_rush_hour_same_slot_default/2022_03_30_18_14_05,7357.01869,16777216
+865,os,Simulated,linear_alltoall,Daint,HPC (Metal),4,../../cloud_noise_data/daint_mc_rush_hour_same_slot_default/2022_03_30_18_14_05,5551.18095,16777216
+866,net,Simulated,linear_alltoall,Daint,HPC (Metal),4,../../cloud_noise_data/daint_mc_rush_hour_same_slot_default/2022_03_30_18_14_05,7365.635752,16777216
+867,os+net,Simulated,linear_alltoall,Daint,HPC (Metal),4,../../cloud_noise_data/daint_mc_rush_hour_same_slot_default/2022_03_30_18_14_05,7365.635752,16777216
+868,none,Simulated,binomialtreebcast,Daint,HPC (Metal),8,../../cloud_noise_data/daint_mc_rush_hour_same_slot_default/2022_03_30_18_14_05,5551.18095,16777216
+869,os,Simulated,binomialtreebcast,Daint,HPC (Metal),8,../../cloud_noise_data/daint_mc_rush_hour_same_slot_default/2022_03_30_18_14_05,5559.40347,16777216
+870,net,Simulated,binomialtreebcast,Daint,HPC (Metal),8,../../cloud_noise_data/daint_mc_rush_hour_same_slot_default/2022_03_30_18_14_05,5496.350558,16777216
+871,os+net,Simulated,binomialtreebcast,Daint,HPC (Metal),8,../../cloud_noise_data/daint_mc_rush_hour_same_slot_default/2022_03_30_18_14_05,5496.350558,16777216
+872,os,Simulated,binomialtreebcast,Daint,HPC (Metal),8,../../cloud_noise_data/daint_mc_rush_hour_same_slot_default/2022_03_30_18_14_05,5551.18095,16777216
+873,net,Simulated,binomialtreebcast,Daint,HPC (Metal),8,../../cloud_noise_data/daint_mc_rush_hour_same_slot_default/2022_03_30_18_14_05,5515.210315,16777216
+874,os+net,Simulated,binomialtreebcast,Daint,HPC (Metal),8,../../cloud_noise_data/daint_mc_rush_hour_same_slot_default/2022_03_30_18_14_05,5515.210315,16777216
+875,none,Simulated,nwaydissemination,Daint,HPC (Metal),8,../../cloud_noise_data/daint_mc_rush_hour_same_slot_default/2022_03_30_18_14_05,39105.61295,16777216
+876,os,Simulated,nwaydissemination,Daint,HPC (Metal),8,../../cloud_noise_data/daint_mc_rush_hour_same_slot_default/2022_03_30_18_14_05,39478.718898,16777216
+877,net,Simulated,nwaydissemination,Daint,HPC (Metal),8,../../cloud_noise_data/daint_mc_rush_hour_same_slot_default/2022_03_30_18_14_05,39539.887282,16777216
+878,os+net,Simulated,nwaydissemination,Daint,HPC (Metal),8,../../cloud_noise_data/daint_mc_rush_hour_same_slot_default/2022_03_30_18_14_05,39356.402551,16777216
+879,os,Simulated,nwaydissemination,Daint,HPC (Metal),8,../../cloud_noise_data/daint_mc_rush_hour_same_slot_default/2022_03_30_18_14_05,40888.126613,16777216
+880,net,Simulated,nwaydissemination,Daint,HPC (Metal),8,../../cloud_noise_data/daint_mc_rush_hour_same_slot_default/2022_03_30_18_14_05,39120.553739,16777216
+881,os+net,Simulated,nwaydissemination,Daint,HPC (Metal),8,../../cloud_noise_data/daint_mc_rush_hour_same_slot_default/2022_03_30_18_14_05,39347.983858,16777216
+882,none,Simulated,pipelinedring,Daint,HPC (Metal),8,../../cloud_noise_data/daint_mc_rush_hour_same_slot_default/2022_03_30_18_14_05,1884.69288,16777216
+883,os,Simulated,pipelinedring,Daint,HPC (Metal),8,../../cloud_noise_data/daint_mc_rush_hour_same_slot_default/2022_03_30_18_14_05,1884.69288,16777216
+884,net,Simulated,pipelinedring,Daint,HPC (Metal),8,../../cloud_noise_data/daint_mc_rush_hour_same_slot_default/2022_03_30_18_14_05,2343.176128,16777216
+885,os+net,Simulated,pipelinedring,Daint,HPC (Metal),8,../../cloud_noise_data/daint_mc_rush_hour_same_slot_default/2022_03_30_18_14_05,2343.176128,16777216
+886,os,Simulated,pipelinedring,Daint,HPC (Metal),8,../../cloud_noise_data/daint_mc_rush_hour_same_slot_default/2022_03_30_18_14_05,1900.42716,16777216
+887,net,Simulated,pipelinedring,Daint,HPC (Metal),8,../../cloud_noise_data/daint_mc_rush_hour_same_slot_default/2022_03_30_18_14_05,2343.176128,16777216
+888,os+net,Simulated,pipelinedring,Daint,HPC (Metal),8,../../cloud_noise_data/daint_mc_rush_hour_same_slot_default/2022_03_30_18_14_05,2370.603302,16777216
+889,none,Simulated,linear_alltoall,Daint,HPC (Metal),8,../../cloud_noise_data/daint_mc_rush_hour_same_slot_default/2022_03_30_18_14_05,12952.75555,16777216
+890,os,Simulated,linear_alltoall,Daint,HPC (Metal),8,../../cloud_noise_data/daint_mc_rush_hour_same_slot_default/2022_03_30_18_14_05,12961.91274,16777216
+891,net,Simulated,linear_alltoall,Daint,HPC (Metal),8,../../cloud_noise_data/daint_mc_rush_hour_same_slot_default/2022_03_30_18_14_05,18413.842402,16777216
+892,os+net,Simulated,linear_alltoall,Daint,HPC (Metal),8,../../cloud_noise_data/daint_mc_rush_hour_same_slot_default/2022_03_30_18_14_05,18413.842402,16777216
+893,os,Simulated,linear_alltoall,Daint,HPC (Metal),8,../../cloud_noise_data/daint_mc_rush_hour_same_slot_default/2022_03_30_18_14_05,12952.75555,16777216
+894,net,Simulated,linear_alltoall,Daint,HPC (Metal),8,../../cloud_noise_data/daint_mc_rush_hour_same_slot_default/2022_03_30_18_14_05,16586.823619,16777216
+895,os+net,Simulated,linear_alltoall,Daint,HPC (Metal),8,../../cloud_noise_data/daint_mc_rush_hour_same_slot_default/2022_03_30_18_14_05,16600.725881,16777216
+896,none,Simulated,binomialtreebcast,Daint,HPC (Metal),16,../../cloud_noise_data/daint_mc_rush_hour_same_slot_default/2022_03_30_18_14_05,7401.5746,16777216
+897,os,Simulated,binomialtreebcast,Daint,HPC (Metal),16,../../cloud_noise_data/daint_mc_rush_hour_same_slot_default/2022_03_30_18_14_05,7401.5746,16777216
+898,net,Simulated,binomialtreebcast,Daint,HPC (Metal),16,../../cloud_noise_data/daint_mc_rush_hour_same_slot_default/2022_03_30_18_14_05,7388.208735,16777216
+899,os+net,Simulated,binomialtreebcast,Daint,HPC (Metal),16,../../cloud_noise_data/daint_mc_rush_hour_same_slot_default/2022_03_30_18_14_05,7796.132181,16777216
+900,os,Simulated,binomialtreebcast,Daint,HPC (Metal),16,../../cloud_noise_data/daint_mc_rush_hour_same_slot_default/2022_03_30_18_14_05,7409.078789,16777216
+901,net,Simulated,binomialtreebcast,Daint,HPC (Metal),16,../../cloud_noise_data/daint_mc_rush_hour_same_slot_default/2022_03_30_18_14_05,7796.132181,16777216
+902,os+net,Simulated,binomialtreebcast,Daint,HPC (Metal),16,../../cloud_noise_data/daint_mc_rush_hour_same_slot_default/2022_03_30_18_14_05,7796.132181,16777216
+903,none,Simulated,nwaydissemination,Daint,HPC (Metal),16,../../cloud_noise_data/daint_mc_rush_hour_same_slot_default/2022_03_30_18_14_05,57733.2226,16777216
+904,os,Simulated,nwaydissemination,Daint,HPC (Metal),16,../../cloud_noise_data/daint_mc_rush_hour_same_slot_default/2022_03_30_18_14_05,61346.407738,16777216
+905,net,Simulated,nwaydissemination,Daint,HPC (Metal),16,../../cloud_noise_data/daint_mc_rush_hour_same_slot_default/2022_03_30_18_14_05,57745.104236,16777216
+906,os+net,Simulated,nwaydissemination,Daint,HPC (Metal),16,../../cloud_noise_data/daint_mc_rush_hour_same_slot_default/2022_03_30_18_14_05,58231.321846,16777216
+907,os,Simulated,nwaydissemination,Daint,HPC (Metal),16,../../cloud_noise_data/daint_mc_rush_hour_same_slot_default/2022_03_30_18_14_05,59937.388497,16777216
+908,net,Simulated,nwaydissemination,Daint,HPC (Metal),16,../../cloud_noise_data/daint_mc_rush_hour_same_slot_default/2022_03_30_18_14_05,57745.104236,16777216
+909,os+net,Simulated,nwaydissemination,Daint,HPC (Metal),16,../../cloud_noise_data/daint_mc_rush_hour_same_slot_default/2022_03_30_18_14_05,58592.07121,16777216
+910,none,Simulated,pipelinedring,Daint,HPC (Metal),16,../../cloud_noise_data/daint_mc_rush_hour_same_slot_default/2022_03_30_18_14_05,1923.892,16777216
+911,os,Simulated,pipelinedring,Daint,HPC (Metal),16,../../cloud_noise_data/daint_mc_rush_hour_same_slot_default/2022_03_30_18_14_05,1941.749355,16777216
+912,net,Simulated,pipelinedring,Daint,HPC (Metal),16,../../cloud_noise_data/daint_mc_rush_hour_same_slot_default/2022_03_30_18_14_05,2169.119903,16777216
+913,os+net,Simulated,pipelinedring,Daint,HPC (Metal),16,../../cloud_noise_data/daint_mc_rush_hour_same_slot_default/2022_03_30_18_14_05,2076.67304,16777216
+914,os,Simulated,pipelinedring,Daint,HPC (Metal),16,../../cloud_noise_data/daint_mc_rush_hour_same_slot_default/2022_03_30_18_14_05,1924.715737,16777216
+915,net,Simulated,pipelinedring,Daint,HPC (Metal),16,../../cloud_noise_data/daint_mc_rush_hour_same_slot_default/2022_03_30_18_14_05,2185.845206,16777216
+916,os+net,Simulated,pipelinedring,Daint,HPC (Metal),16,../../cloud_noise_data/daint_mc_rush_hour_same_slot_default/2022_03_30_18_14_05,2177.867734,16777216
+917,none,Simulated,linear_alltoall,Daint,HPC (Metal),16,../../cloud_noise_data/daint_mc_rush_hour_same_slot_default/2022_03_30_18_14_05,27755.90475,16777216
+918,os,Simulated,linear_alltoall,Daint,HPC (Metal),16,../../cloud_noise_data/daint_mc_rush_hour_same_slot_default/2022_03_30_18_14_05,27779.031807,16777216
+919,net,Simulated,linear_alltoall,Daint,HPC (Metal),16,../../cloud_noise_data/daint_mc_rush_hour_same_slot_default/2022_03_30_18_14_05,36814.740453,16777216
+920,os+net,Simulated,linear_alltoall,Daint,HPC (Metal),16,../../cloud_noise_data/daint_mc_rush_hour_same_slot_default/2022_03_30_18_14_05,36796.355424,16777216
+921,os,Simulated,linear_alltoall,Daint,HPC (Metal),16,../../cloud_noise_data/daint_mc_rush_hour_same_slot_default/2022_03_30_18_14_05,27755.90475,16777216
+922,net,Simulated,linear_alltoall,Daint,HPC (Metal),16,../../cloud_noise_data/daint_mc_rush_hour_same_slot_default/2022_03_30_18_14_05,38551.735009,16777216
+923,os+net,Simulated,linear_alltoall,Daint,HPC (Metal),16,../../cloud_noise_data/daint_mc_rush_hour_same_slot_default/2022_03_30_18_14_05,36839.001613,16777216
