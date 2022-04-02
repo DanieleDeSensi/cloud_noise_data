@@ -27,6 +27,7 @@ AWS,Normal,Compute,,compute/gemm_aws_c5.x18large_72cores_2022_04_01_12_49_35/gem
 AWS,HPC (Metal),Compute,,compute/gemm_aws_c5n.metal_72_cores_2022_03_31_23_16_13/gemm_aws_c5n.metal_72_
 Azure,Normal,Compute,,compute/gemm_azure_f72_v2_72_cores_8272CL_2022_04_01_12_01_30/gemm_azure_f72_v2_72_cores_8272CL_
 Azure,HPC (Metal),Compute,,compute/gemm_azure_hpc44rs_O3_2022_03_31_17_04_34/gemm_azure_hpc44rs_default_
+Azure,HPC (200 Gb/s),Compute,,compute/gemm_azure_hbv2_120cores_2022_03_31_18_45_20/gemm_azure_hbv2_120cores_default_
 GCP,Normal,Compute,,compute/gemm_30threads_c2-standard-60_2022_04_01_10_19_58/gemm_60threads_c2-standard-60_singlenode_
 GCP,HPC,Compute,,compute/gemm_30threads_c2-standard-60_2022_04_01_10_19_58/gemm_60threads_c2-standard-60_singlenode_
 Daint,HPC (Metal),Compute,,compute/gemm_daint_mc_2022_03_31_16_27_51/gemm_daint_mc_default_
