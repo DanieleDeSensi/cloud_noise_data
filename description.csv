@@ -7,9 +7,9 @@ AWS,HPC (Metal),Same Rack,Long,aws_c5n.metal_cluster/2022_03_29_22_24_34
 AWS,Normal,Different Racks,Night,aws_c5.18xlarge_spread/2022_03_25_10_12_34
 AWS,Normal,Same Rack,Night,aws-normal_c5.18xlarge_cluster/2022_03_26_10_07_26
 AWS,Normal,Same Rack,Day,aws-normal_c5.18xlarge_cluster/2022_03_26_10_07_26
-Azure,HPC (Metal),Same Rack,Night,azure_hpc44rs_azure_quite_same_rack/2022_03_18_10_05_53
-Azure,HPC (Metal),Same Rack,Day,azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11
-Azure,HPC (Metal),Same Rack,Long,azure_hpc44rs_azure_long_same_rack/2022_03_21_12_47_18
+Azure,HPC,Same Rack,Night,azure_hpc44rs_azure_quite_same_rack/2022_03_18_10_05_53
+Azure,HPC,Same Rack,Day,azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11
+Azure,HPC,Same Rack,Long,azure_hpc44rs_azure_long_same_rack/2022_03_21_12_47_18
 Azure,HPC (200 Gb/s),Same Rack,Day,azure_hbv2_rush_hour/2022_03_25_17_01_24
 Azure,Normal,Same Rack,Day,azure_F72s_v2_short/2022_03_28_17_31_51
 Daint,HPC (Metal),Different Racks,Day,daint_mc_rush_hours_diff_rack_default/2022_03_28_17_00_03
@@ -26,7 +26,7 @@ GCP,Normal,Same Rack,Day,gcp_c2-standard-60_colloc_notier-nogvnic/2022_03_31_09_
 AWS,Normal,Compute,,compute/gemm_aws_c5.x18large_72cores_2022_04_01_12_49_35/gemm_aws_c5.x18large_72cores_
 AWS,HPC (Metal),Compute,,compute/gemm_aws_c5n.metal_72_cores_2022_03_31_23_16_13/gemm_aws_c5n.metal_72_
 Azure,Normal,Compute,,compute/gemm_azure_f72_v2_72_cores_8272CL_2022_04_01_12_01_30/gemm_azure_f72_v2_72_cores_8272CL_
-Azure,HPC (Metal),Compute,,compute/gemm_azure_hpc44rs_O3_2022_03_31_17_04_34/gemm_azure_hpc44rs_default_
+Azure,HPC,Compute,,compute/gemm_azure_hpc44rs_O3_2022_03_31_17_04_34/gemm_azure_hpc44rs_default_
 Azure,HPC (200 Gb/s),Compute,,compute/gemm_azure_hbv2_120cores_2022_03_31_18_45_20/gemm_azure_hbv2_120cores_default_
 GCP,Normal,Compute,,compute/gemm_30threads_c2-standard-60_2022_04_01_10_19_58/gemm_60threads_c2-standard-60_singlenode_
 GCP,HPC,Compute,,compute/gemm_30threads_c2-standard-60_2022_04_01_10_19_58/gemm_60threads_c2-standard-60_singlenode_
