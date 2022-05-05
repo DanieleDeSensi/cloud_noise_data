@@ -33,3 +33,5 @@ GCP,HPC,Compute,,compute/gemm_30threads_c2-standard-60_2022_04_01_10_19_58/gemm_
 Daint,HPC (Metal),Compute,,compute/gemm_daint_mc_2022_03_31_16_27_51/gemm_daint_mc_default_
 Alps,HPC (Metal),Same Rack,Day,alps/2022_05_04_19_22_48
 Alps,HPC (Metal),Compute,,alps/2022_05_04_19_22_48/gemm_
+DEEP-EST,HPC (Metal),Same Rack,Day,../data/deep-est/2022_05_05_14_17_53
+DEEP-EST,HPC (Metal),Compute,,../data/deep-est/2022_05_05_14_17_53/gemm_
