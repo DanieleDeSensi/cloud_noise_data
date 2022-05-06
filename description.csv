@@ -35,3 +35,4 @@ Alps,HPC (Metal),Same Rack,Day,alps/2022_05_04_19_22_48
 Alps,HPC (Metal),Compute,,alps/2022_05_04_19_22_48/gemm_
 DEEP-EST,HPC (Metal),Same Rack,Day,../data/deep-est/2022_05_05_17_00_11
 DEEP-EST,HPC (Metal),Compute,,../data/deep-est/2022_05_05_17_00_11/gemm_
+DEEP-EST,HPC (Metal),Collectives,,../data/deep-est/2022_05_06_16_58_14
