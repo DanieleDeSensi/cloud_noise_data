@@ -31,8 +31,10 @@ Azure,HPC (200 Gb/s),Compute,,compute/gemm_azure_hbv2_120cores_2022_03_31_18_45_
 GCP,Normal,Compute,,compute/gemm_30threads_c2-standard-60_2022_04_01_10_19_58/gemm_60threads_c2-standard-60_singlenode_
 GCP,HPC,Compute,,compute/gemm_30threads_c2-standard-60_2022_04_01_10_19_58/gemm_60threads_c2-standard-60_singlenode_
 Daint,HPC (Metal),Compute,,compute/gemm_daint_mc_2022_03_31_16_27_51/gemm_daint_mc_default_
-Alps,HPC (Metal),Same Rack,Day,alps/2022_05_04_19_22_48
-Alps,HPC (Metal),Compute,,alps/2022_05_04_19_22_48/gemm_
 DEEP-EST,HPC (Metal),Same Rack,Day,../data/deep-est/2022_05_05_17_00_11
 DEEP-EST,HPC (Metal),Compute,,../data/deep-est/2022_05_05_17_00_11/gemm_
 DEEP-EST,HPC (Metal),Collectives,,../data/deep-est/2022_05_09_16_17_34
+Alps,HPC,Same Rack,Day,../data/alps/2022_05_06_16_58_37
+Alps,HPC,Compute,,../data/alps/2022_05_06_16_58_37/gemm_
+Daint,HPC (Metal),Collectives,,../data/alps/2022_05_09_16_16_05
+Alps,HPC (Metal),Collectives,,../data/alps/2022_05_06_18_59_47
