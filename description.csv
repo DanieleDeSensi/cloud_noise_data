@@ -36,5 +36,5 @@ DEEP-EST,HPC (Metal),Compute,,../data/deep-est/2022_05_05_17_00_11/gemm_
 Alps,HPC,Same Rack,Day,../data/alps/2022_05_06_16_58_37
 Alps,HPC,Compute,,../data/alps/2022_05_06_16_58_37/gemm_
 DEEP-EST,HPC (Metal),Collectives,,../data/deep-est/2022_05_09_16_17_34
-Daint,HPC (Metal),Collectives,,../data/daint/2022_05_10_19_07_46
+Daint,HPC (Metal),Collectives,,../data/daint/2022_05_10_21_34_00
 Alps,HPC (Metal),Collectives,,../data/alps/2022_05_09_16_16_05
