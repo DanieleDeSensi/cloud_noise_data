@@ -1,5 +1,5 @@
 AWS,HPC (Metal),Same Rack,Night,aws_c5n.metal_cluster/2022_03_23_10_26_24
-AWS,HPC (Metal),Same Rack,Day,aws_c5n.metal_cluster/2022_03_23_22_04_48
+AWS,HPC (Metal),Same Rack,Day,aws-hpc/2022_05_15_18_54_34
 AWS,HPC,Same Rack,Day,aws_c5n.x16large_cluster/2022_03_24_22_21_49
 AWS,HPC (Metal),Different Racks,Night,aws_c5n.metal_spread/2022_03_24_10_04_37
 AWS,HPC (Metal),Different Racks,Day,aws_c5n.metal_spread/2022_03_28_22_19_59
@@ -12,12 +12,11 @@ Azure,HPC,Same Rack,Day,azure_hpc44rs_azure_rush_same_rack/2022_03_18_22_04_11
 Azure,HPC,Same Rack,Long,azure_hpc44rs_azure_long_same_rack/2022_03_21_12_47_18
 Azure,HPC (200 Gb/s),Same Rack,Day,azure_hbv2_rush_hour/2022_03_25_17_01_24
 Azure,Normal,Same Rack,Day,azure_F72s_v2_short/2022_03_28_17_31_51
-Daint,HPC (Metal),Different Racks,Day,daint_mc_rush_hours_diff_rack_default/2022_03_28_17_00_03
 Daint,HPC (Metal),Different Racks,Night,daint_mc_quiet_hour_diff_rack_default/2022_03_25_04_59_45
 Daint,HPC (Metal),Same Rack,Day,daint_mc_rush_hour_same_slot_default/2022_03_30_18_14_05
 Daint,HPC (Metal),Same Rack,Night,daint_mc_quiet_hours_same_rack_default/2022_03_24_04_59_53
 Daint,HPC (Metal),Same Rack,Long,daint_mc_long_same_rack_default/2022_03_22_17_28_57
-GCP,HPC,Same Rack,Day,gcp_c2-standard-60_cluster/2022_03_28_22_00_00
+GCP,HPC,Same Rack,Day,gcp/2022_05_17_14_29_15
 GCP,HPC,Same Rack,Night,gcp_c2-standard-60_cluster/2022_03_29_10_00_00
 GCP,HPC,Different Racks,Day,gcp_c2-standard-60_spread/2022_03_29_22_18_11
 GCP,HPC,Different Racks,Night,gcp_c2-standard-60_spread/2022_03_30_10_05_34
@@ -31,13 +30,15 @@ Azure,HPC (200 Gb/s),Compute,,compute/gemm_azure_hbv2_120cores_2022_03_31_18_45_
 GCP,Normal,Compute,,compute/gemm_30threads_c2-standard-60_2022_04_01_10_19_58/gemm_60threads_c2-standard-60_singlenode_
 GCP,HPC,Compute,,compute/gemm_30threads_c2-standard-60_2022_04_01_10_19_58/gemm_60threads_c2-standard-60_singlenode_
 Daint,HPC (Metal),Compute,,compute/gemm_daint_mc_2022_03_31_16_27_51/gemm_daint_mc_default_
-DEEP-EST,HPC (Metal),Same Rack,Day,../data/deep-est/2022_05_05_17_00_11
+DEEP-EST,HPC (Metal),Same Rack,Day,../data/deep-est/2022_05_19_16_35_07
 DEEP-EST,HPC (Metal),Compute,,../data/deep-est/2022_05_05_17_00_11/gemm_
 Alps,HPC (Metal),Same Rack,Day,../data/alps/2022_05_06_16_58_37
 Alps,HPC (Metal),Compute,,../data/alps/2022_05_06_16_58_37/gemm_
 DEEP-EST,HPC (Metal),Collectives,,../data/deep-est/2022_05_13_15_49_46
-Daint,HPC (Metal),Collectives,,../data/daint/2022_05_13_14_51_56
+Daint,HPC (Metal),Collectives,,../data/daint/2022_05_15_20_01_25
 Alps,HPC (Metal),Collectives,,../data/alps/2022_05_12_20_08_36
-Daint,HPC (Metal),Different Racks,Day,../data/daint/2022_05_13_17_07_22
+Daint,HPC (Metal),Different Racks,Day,../data/daint/2022_05_19_13_03_39
 DEEP-EST,HPC (Metal),Different Racks,Day,../data/deep-est/2022_05_13_17_15_46
-Alps,HPC (Metal),Different Racks,Day,../data/alps/2022_05_13_18_34_18
+Alps,HPC (Metal),Different Racks,Day,../data/alps/2022_05_17_17_02_43
+Azure,HPC (200 Gb/s),Collectives,,../data/azure_hbrsv2_collectives/2022_05_15_12_41_00
+Azure,HPC,Collectives,,../data/azure_hcs_collectives_2022_05_19/2022_05_19_18_01_43
