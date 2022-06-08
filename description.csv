@@ -16,7 +16,7 @@ Daint,HPC (Metal),Different Racks,Night,daint_mc_quiet_hour_diff_rack_default/20
 Daint,HPC (Metal),Same Rack,Day,daint_mc_rush_hour_same_slot_default/2022_03_30_18_14_05
 Daint,HPC (Metal),Same Rack,Night,daint_mc_quiet_hours_same_rack_default/2022_03_24_04_59_53
 Daint,HPC (Metal),Same Rack,Long,daint_mc_long_same_rack_default/2022_03_22_17_28_57
-GCP,HPC,Same Rack,Day,gcp/2022_05_17_14_29_15
+GCP,HPC,Same Rack,Day,gcp/2022_06_08_17_01_09
 GCP,HPC,Same Rack,Night,gcp_c2-standard-60_cluster/2022_03_29_10_00_00
 GCP,HPC,Different Racks,Day,gcp_c2-standard-60_spread/2022_03_29_22_18_11
 GCP,HPC,Different Racks,Night,gcp_c2-standard-60_spread/2022_03_30_10_05_34
